@@ -2460,16 +2460,38 @@
     "latitude": 37.95414065,
     "longitude": 23.69549876,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
-    "status": "on_duty",
-    "closesAt": "23:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "7aFn4BApTySJN_AVhmbo7g",
@@ -4428,16 +4450,38 @@
     "latitude": 38.01503369,
     "longitude": 23.74996331,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 23:00",
-    "status": "on_duty",
-    "closesAt": "23:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "0Fl7twpJRg2l3po8bZE6oQ",
@@ -5658,16 +5702,38 @@
     "latitude": 37.98161052,
     "longitude": 23.73197152,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 21:00",
-    "status": "on_duty",
-    "closesAt": "21:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "ldAgHuK4ToW5rbColksIYA",
@@ -6564,16 +6630,38 @@
     "latitude": 37.96520453,
     "longitude": 23.74921733,
     "isFrequentDuty": true,
-    "operatingHours": "00:00 – 08:00 · 08:30 – 14:30 · 17:00 – 20:30",
-    "status": "on_duty",
-    "closesAt": "20:30:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "_xs4zTq_TeepI5VMhiJUsw",
@@ -14166,16 +14254,38 @@
     "latitude": 37.96106899,
     "longitude": 23.70510082,
     "isFrequentDuty": true,
-    "operatingHours": "08:30 – 14:30 · 17:00 – 21:00",
-    "status": "on_duty",
-    "closesAt": "21:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "vOks6vIMRy-iDMYhDMpnJQ",
@@ -17034,16 +17144,38 @@
     "latitude": 37.86332835,
     "longitude": 23.75009017,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 21:00",
-    "status": "on_duty",
-    "closesAt": "21:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "I56xpzWtSceNGcP33s3z4A",
@@ -27966,16 +28098,38 @@
     "latitude": 37.92733661,
     "longitude": 23.7558689,
     "isFrequentDuty": true,
-    "operatingHours": "00:00 – 08:00 · 08:30 – 14:00 · 17:00 – 20:30",
-    "status": "on_duty",
-    "closesAt": "20:30:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "ZgzOJW4OQ-GwUHcSJRJtag",
@@ -29970,16 +30124,38 @@
     "latitude": 38.07246731,
     "longitude": 23.81568863,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 23:00",
-    "status": "on_duty",
-    "closesAt": "23:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "kXLu9nkfRt-Cm8fk91Suug",
@@ -30480,16 +30656,38 @@
     "latitude": 37.99410789,
     "longitude": 23.68343226,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 14:00 · 17:00 – 21:00",
-    "status": "on_duty",
-    "closesAt": "21:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "DB-Ew6aRQjq12237N5MKOQ",
@@ -40710,16 +40908,38 @@
     "latitude": 37.98576,
     "longitude": 23.72848,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "KvbBL8QyRt-MUxqgSn6qzw",
@@ -47574,16 +47794,38 @@
     "latitude": 38.00622192,
     "longitude": 23.70095609,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
-    "status": "on_duty",
-    "closesAt": "23:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "6sLUPQvTUqAR3yyTYGvsw",
@@ -60468,16 +60710,38 @@
     "latitude": 38.01612276,
     "longitude": 23.6923261,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 21:00",
-    "status": "on_duty",
-    "closesAt": "21:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "aIAalMfYRM-OUx3DNmbXTg",
@@ -81966,16 +82230,38 @@
     "latitude": 37.9370342,
     "longitude": 23.73660582,
     "isFrequentDuty": true,
-    "operatingHours": "00:00 – 08:00 · 00:00 – 14:30 · 17:00 – 20:30",
-    "status": "on_duty",
-    "closesAt": "20:30:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "7VyE-U7eS3qa5CQjjltq9Q",
@@ -89262,16 +89548,38 @@
     "latitude": 38.05515583,
     "longitude": 23.8057357,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 20:30",
-    "status": "on_duty",
-    "closesAt": "20:30:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "I2oBpDhUTFC1wxP9j8KEew",
@@ -138534,16 +138842,38 @@
     "latitude": 37.9512235,
     "longitude": 23.70734833,
     "isFrequentDuty": true,
-    "operatingHours": "00:00 – 08:00 · 00:00 – 20:00",
-    "status": "on_duty",
-    "closesAt": "20:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "ZY0CdiLcSTmxNJY98DGfig",
@@ -143796,16 +144126,38 @@
     "latitude": 38.02697093,
     "longitude": 23.67439225,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
-    "status": "on_duty",
-    "closesAt": "23:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "j9BI3ZGWQV2xef3UkkMJfQ",
@@ -149904,16 +150256,38 @@
     "latitude": 37.87855877,
     "longitude": 23.76341681,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 21:00",
-    "status": "on_duty",
-    "closesAt": "21:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "ikvhlPWxS42lEtxmbvboLw",
@@ -157308,8 +157682,8 @@
     "latitude": 38.01388635,
     "longitude": 23.73634246,
     "isFrequentDuty": true,
-    "operatingHours": "00:00 – 08:00",
-    "status": "on_duty",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
     "closesAt": "08:00:00",
     "dutyPeriods": [
       {
@@ -157317,7 +157691,29 @@
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "c-vIg3fESrS1gKhpQ43xAA",
@@ -157638,8 +158034,8 @@
     "latitude": 37.97123417,
     "longitude": 23.73085933,
     "isFrequentDuty": false,
-    "operatingHours": "00:00 – 08:00",
-    "status": "on_duty",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
     "closesAt": "08:00:00",
     "dutyPeriods": [
       {
@@ -157647,7 +158043,29 @@
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "yM8TKIQYRlO_YMfTxVmvUw",
@@ -160074,16 +160492,38 @@
     "latitude": 37.91845939,
     "longitude": 23.72904935,
     "isFrequentDuty": true,
-    "operatingHours": "00:00 – 08:00 · 00:00 – 21:00",
-    "status": "on_duty",
-    "closesAt": "21:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "tVONfQpfTkSuw6U0B3EguQ",
@@ -162870,16 +163310,38 @@
     "latitude": 38.03426537,
     "longitude": 23.7957746,
     "isFrequentDuty": true,
-    "operatingHours": "00:00 – 08:00 · 00:00 – 21:00",
-    "status": "on_duty",
-    "closesAt": "21:00:00",
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "-3Fpzs6SRQq53DMAL0CTBw",
@@ -163020,16 +163482,38 @@
     "latitude": 38.0006902,
     "longitude": 23.7282713,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_c78e925b",
@@ -163044,16 +163528,38 @@
     "latitude": 38.0188476,
     "longitude": 23.8244812,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_f8089df2",
@@ -163068,16 +163574,38 @@
     "latitude": 38.0054674,
     "longitude": 23.826839,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_6fca9cf7",
@@ -163092,16 +163620,38 @@
     "latitude": 38.1408557,
     "longitude": 23.8588766,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_157806cb",
@@ -163116,16 +163666,38 @@
     "latitude": 37.9870796,
     "longitude": 23.7597477,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_76e801bc",
@@ -163140,16 +163712,38 @@
     "latitude": 37.9926351,
     "longitude": 23.7620146,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_06e25cbe",
@@ -163164,16 +163758,38 @@
     "latitude": 37.9964291,
     "longitude": 23.7699705,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_c93dd5f0",
@@ -163188,16 +163804,38 @@
     "latitude": 37.737019,
     "longitude": 23.9500316,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_48b2d88e",
@@ -163212,16 +163850,38 @@
     "latitude": 38.0789848,
     "longitude": 23.6995642,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_cc7e3909",
@@ -163236,16 +163896,38 @@
     "latitude": 37.9768731,
     "longitude": 24.0085054,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_ca6c86f9",
@@ -163260,16 +163942,38 @@
     "latitude": 38.0640093,
     "longitude": 23.5915578,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_5f5b7c19",
@@ -163284,16 +163988,38 @@
     "latitude": 38.0812294,
     "longitude": 23.7371496,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_d9fa070b",
@@ -163308,16 +164034,38 @@
     "latitude": 37.8480577,
     "longitude": 23.7688881,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_1c18ba96",
@@ -163332,16 +164080,38 @@
     "latitude": 37.9566485,
     "longitude": 23.7579953,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_14f08fbe",
@@ -163356,16 +164126,38 @@
     "latitude": 38.0074087,
     "longitude": 23.8619361,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_fda63a5b",
@@ -163380,16 +164172,38 @@
     "latitude": 37.9903018,
     "longitude": 23.7451799,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_a8233ef3",
@@ -163404,16 +164218,38 @@
     "latitude": 38.0072436,
     "longitude": 23.8485834,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_a2610e43",
@@ -163428,16 +164264,38 @@
     "latitude": 38.0482026,
     "longitude": 23.5371702,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_5072966e",
@@ -163452,16 +164310,38 @@
     "latitude": 37.8923864,
     "longitude": 23.7539873,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_c016f2fb",
@@ -163476,16 +164356,38 @@
     "latitude": 37.9803102,
     "longitude": 23.7707454,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_735bee22",
@@ -163500,16 +164402,38 @@
     "latitude": 38.0312597,
     "longitude": 23.6931256,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_9a1f9ba6",
@@ -163524,16 +164448,38 @@
     "latitude": 38.0312455,
     "longitude": 23.7116397,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_3863c978",
@@ -163548,16 +164494,38 @@
     "latitude": 37.98083,
     "longitude": 23.7599863,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_2653f7df",
@@ -163572,16 +164540,38 @@
     "latitude": 37.8405655,
     "longitude": 23.9277299,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_bf551ac4",
@@ -163596,16 +164586,38 @@
     "latitude": 37.9883356,
     "longitude": 23.8508052,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_4c90ce86",
@@ -163620,16 +164632,38 @@
     "latitude": 37.8093259,
     "longitude": 23.9760376,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_b4c4ba84",
@@ -163644,16 +164678,38 @@
     "latitude": 37.9793493,
     "longitude": 23.745647,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_4709ab5e",
@@ -163668,16 +164724,38 @@
     "latitude": 37.9088608,
     "longitude": 23.87283,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_93b1aaaf",
@@ -163692,16 +164770,38 @@
     "latitude": 38.0046101,
     "longitude": 23.7420206,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_6088f8ab",
@@ -163716,16 +164816,38 @@
     "latitude": 38.0054388,
     "longitude": 23.7496949,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_26552d04",
@@ -163740,16 +164862,38 @@
     "latitude": 37.8057169,
     "longitude": 23.8713817,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_f63d5088",
@@ -163764,16 +164908,38 @@
     "latitude": 37.7154458,
     "longitude": 24.056522,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_98cb76cb",
@@ -163788,16 +164954,38 @@
     "latitude": 38.0729435,
     "longitude": 23.4969098,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_7f1afddc",
@@ -163812,16 +165000,38 @@
     "latitude": 37.8837664,
     "longitude": 23.9352624,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_0876d02f",
@@ -163836,16 +165046,38 @@
     "latitude": 38.0462131,
     "longitude": 23.7655962,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_dc4beb9a",
@@ -163860,16 +165092,38 @@
     "latitude": 38.0399758,
     "longitude": 23.7536429,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_1fe2a5c0",
@@ -163884,16 +165138,38 @@
     "latitude": 37.9530126,
     "longitude": 23.7252845,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_afde7027",
@@ -163908,16 +165184,38 @@
     "latitude": 38.0004152,
     "longitude": 23.4158835,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_47c85316",
@@ -163932,16 +165230,38 @@
     "latitude": 37.9479113,
     "longitude": 23.7160911,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_f988dadc",
@@ -163956,16 +165276,38 @@
     "latitude": 38.0862203,
     "longitude": 23.9767393,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_71480448",
@@ -163980,16 +165322,38 @@
     "latitude": 37.9563009,
     "longitude": 23.8581421,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_5b1e8375",
@@ -164004,16 +165368,38 @@
     "latitude": 38.0039162,
     "longitude": 23.8816412,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_62a8ee76",
@@ -164028,16 +165414,38 @@
     "latitude": 38.0245686,
     "longitude": 23.7395711,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_a1e3f7f9",
@@ -164052,16 +165460,38 @@
     "latitude": 38.0093705,
     "longitude": 23.6804844,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_b6cf13b6",
@@ -164076,16 +165506,38 @@
     "latitude": 37.9683259,
     "longitude": 23.7102563,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_56bfd20e",
@@ -164100,16 +165552,38 @@
     "latitude": 38.0401959,
     "longitude": 23.6895379,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_7128273a",
@@ -164124,16 +165598,38 @@
     "latitude": 38.0012645,
     "longitude": 23.9393636,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_cd95a9c5",
@@ -164148,16 +165644,38 @@
     "latitude": 38.0006826,
     "longitude": 23.9419387,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_7c78e745",
@@ -164172,16 +165690,38 @@
     "latitude": 38.0063021,
     "longitude": 23.7322513,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_0e0db688",
@@ -164196,16 +165736,38 @@
     "latitude": 37.967026,
     "longitude": 23.9168198,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_2f1ab9d1",
@@ -164220,16 +165782,38 @@
     "latitude": 38.0086592,
     "longitude": 23.6648999,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_fa472d62",
@@ -164244,16 +165828,38 @@
     "latitude": 38.0206165,
     "longitude": 23.8009302,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_754b8db6",
@@ -164268,16 +165874,38 @@
     "latitude": 38.3315913,
     "longitude": 23.7346208,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   },
   {
     "id": "duty_68bf4348",
@@ -164292,15 +165920,37 @@
     "latitude": 38.0069278,
     "longitude": 23.8063741,
     "isFrequentDuty": true,
-    "operatingHours": null,
-    "status": "on_duty",
-    "closesAt": null,
+    "operatingHours": "08:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [
       {
         "opensAt": null,
         "closesAt": null,
         "rawHours": "Διανυκτερεύον"
       }
-    ]
+    ],
+    "duties": {
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null,
+        "data_status": "fresh"
+      },
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
+    }
   }
 ]

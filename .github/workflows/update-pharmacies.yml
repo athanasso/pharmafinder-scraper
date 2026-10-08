@@ -41,8 +41,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Crawl on-duty pharmacy shifts
-        run: python scraper.py
+      - name: Crawl on-duty pharmacy shifts from official sources
+        run: python multi_source_scraper.py
 
       - name: Package dataset & compress artifacts
         run: python package_dataset.py
@@ -63,6 +63,6 @@ jobs:
           gh release create "$TAG" \
             pharmacies_latest.min.json \
             pharmacies_latest.min.json.zst \
-            --title "PharmaFinder Greece $TAG" \
+            --title "PharmaFinder Greece $TAG (Official Sources)" \
             --notes-file release_notes.md \
             --latest
