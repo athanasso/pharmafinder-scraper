@@ -126,11 +126,17 @@ Workflow: [`.github/workflows/update-pharmacies.yml`](.github/workflows/update-p
 pip install -r requirements.txt
 ```
 
-### 2. Crawl Syndicates
+### 2. Crawl Rosters (505 Municipalities)
+```bash
+python scraper.py
+```
+Crawls all 505 Greek municipalities via decrypted payload tokens (AES-128-CBC / PBKDF2), extracting today's and tomorrow's complete open & emergency duty schedules (~2,666 today / ~2,647 tomorrow) into `data/duties_raw.json`.
+
+*Alternative (Emergency Syndicate Crawler):*
 ```bash
 python multi_source_scraper.py
 ```
-Scrapes ΦΣΑ Attica and regional syndicate feeds, matches duty shifts to `data/pharmacies_master.json`, upserts new stores, and dumps `data/duties_raw.json`.
+Directly queries statutory syndicate portals (ΦΣΑ Attica + ITeQ Regional Network) for official emergency night shifts.
 
 ### 3. Package & Compress
 ```bash

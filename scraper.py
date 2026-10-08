@@ -111,30 +111,41 @@ def fetch_city_duty(
     duty_time: str,
     session_cookie: str,
     cursor: str | None = None,
+    max_retries: int = 3,
 ) -> dict | None:
-    """Fetches on-duty pharmacies for a given city and time mode."""
+    """Fetches on-duty pharmacies for a given city and time mode with retry backoff."""
     url = f"{BASE_URL}/api/proxy/v1/duty/cities/{city_slug}?time={duty_time}"
     if cursor:
         url += f"&cursor={cursor}"
 
-    try:
-        res = Fetcher.get(
-            url,
-            headers={
-                "Cookie": f"pf_session={session_cookie}",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) PharmaFinder-Scraper/1.0",
-                "Accept": "application/json",
-            },
-        )
-        if res.status == 404:
+    for attempt in range(1, max_retries + 1):
+        try:
+            res = Fetcher.get(
+                url,
+                headers={
+                    "Cookie": f"pf_session={session_cookie}",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) PharmaFinder-Scraper/1.0",
+                    "Accept": "application/json",
+                },
+            )
+            if res.status == 404:
+                return None
+            if res.status in (500, 502, 503, 504):
+                if attempt < max_retries:
+                    time.sleep(1.5 * attempt)
+                    continue
+                return None
+            raw = res.json()
+            if "encrypted" in raw:
+                return decrypt_token(raw["encrypted"])
+            return raw
+        except Exception as e:
+            if attempt < max_retries:
+                time.sleep(1.0 * attempt)
+                continue
+            print(f"  [!] City {city_slug} ({duty_time}) failed: {e}")
             return None
-        raw = res.json()
-        if "encrypted" in raw:
-            return decrypt_token(raw["encrypted"])
-        return raw
-    except Exception as e:
-        print(f"  [!] City {city_slug} ({duty_time}) failed: {e}")
-        return None
+    return None
 
 
 def run_scraper():
