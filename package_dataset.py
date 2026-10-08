@@ -106,6 +106,27 @@ def package():
         raw_pharmacies = duties_payload.get("pharmacies", {})
         print(f"[*] Merging live duties for {len(raw_pharmacies):,} pharmacies...")
 
+        # Reset all stores to non-duty state before merging fresh scrape rotas
+        for p in master_map.values():
+            p["status"] = "scheduled"
+            p["closesAt"] = None
+            p["duties"] = {
+                "today": {
+                    "is_on_duty": False,
+                    "closes_at": None,
+                    "periods": [],
+                    "observed_at": None,
+                    "data_status": "fresh",
+                },
+                "tomorrow": {
+                    "is_on_duty": False,
+                    "closes_at": None,
+                    "periods": [],
+                    "observed_at": None,
+                    "data_status": "fresh",
+                },
+            }
+
         for pid, d_obj in raw_pharmacies.items():
             today_duty = d_obj.get("duties", {}).get("today", {})
             tomorrow_duty = d_obj.get("duties", {}).get("tomorrow", {})
