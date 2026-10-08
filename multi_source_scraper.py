@@ -32,13 +32,12 @@ import urllib.error
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(r"d:\Projects\RN\github-published\pharmafinder-scraper")
+SCRIPT_DIR = Path(__file__).resolve().parent
 DATA_DIR = SCRIPT_DIR / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 MASTER_FILE = DATA_DIR / "pharmacies_master.json"
 DUTIES_RAW_FILE = DATA_DIR / "duties_raw.json"
-OUTPUT_MULTI_FILE = DATA_DIR / "duties_multi_source.json"
 
 SSL_CTX = ssl.create_default_context()
 SSL_CTX.check_hostname = False
