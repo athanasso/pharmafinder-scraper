@@ -65,9 +65,10 @@ https://github.com/<owner>/pharmafinder-scraper/releases/latest/download/pharmac
 Workflow: [`.github/workflows/update-pharmacies.yml`](.github/workflows/update-pharmacies.yml)
 
 - **Schedules (UTC):**
-  - `17 4 * * *` (07:17 Athens — morning rota update)
-  - `47 10 * * *` (13:47 Athens — afternoon shift check)
-  - `23 16 * * *` (19:23 Athens — overnight emergency rota)
+  - `17 4 * * *` (07:17 Athens — morning opening rota switch)
+  - `47 10 * * *` (13:47 Athens — afternoon handover / evening rota)
+  - `23 16 * * *` (19:23 Athens — overnight emergency rota switch)
+  - `17 21 * * *` (00:17 Athens — date rollover / pre-warm tomorrow)
 - **Permissions:** `contents: write` (for committing updated registry and creating releases).
 - **Automated Steps:**
   1. Sets up Python 3.12 with pip cache.

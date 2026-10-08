@@ -2,11 +2,15 @@ name: Multi-Daily Pharmacy Rosters & Release Builder
 
 on:
   schedule:
-    # 3 times daily (UTC): early morning (04:17 UTC / 07:17 Athens),
-    # midday (10:47 UTC / 13:47 Athens), evening (16:23 UTC / 19:23 Athens)
+    # 4 times daily (UTC):
+    # - 04:17 UTC (07:17 Athens): Morning opening rota switch (08:00)
+    # - 10:47 UTC (13:47 Athens): Afternoon handover (evening shift 17:00-21:00)
+    # - 16:23 UTC (19:23 Athens): Overnight emergency rota switch (21:00-08:00)
+    # - 21:17 UTC (00:17 Athens): Date rollover (pre-warms tomorrow shifts)
     - cron: '17 4 * * *'
     - cron: '47 10 * * *'
     - cron: '23 16 * * *'
+    - cron: '17 21 * * *'
   workflow_dispatch:
 
 permissions:
