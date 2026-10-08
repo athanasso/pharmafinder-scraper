@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+ENV/
+*.tmp
+dist/
+build/
+.DS_Store
+duties_raw.json
+tag.txt
+release_notes.md
+pharmacies_latest.min.json*

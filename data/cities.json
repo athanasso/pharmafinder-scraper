@@ -1,0 +1,2527 @@
+[
+  {
+    "city": "Άβυθος",
+    "slug": "abythos",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Άγιοι Ανάργυροι",
+    "slug": "agioi-anargyroi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Άγιοι Απόστολοι",
+    "slug": "agioi-apostoloi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Άγιοι Θεόδωροι",
+    "slug": "agioi-theodoroi",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Άγιος Αθανάσιος",
+    "slug": "agios-athanasios",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Άγιος Βασίλειος",
+    "slug": "agios-basileios",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Άγιος Δημήτριος",
+    "slug": "agios-dimitrios",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Άγιος Ιωάννης Ρέντης",
+    "slug": "agios-ioannis-rentis",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Άγιος Κωνσταντίνος",
+    "slug": "agios-konstantinos",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Άγιος Νικόλαος Λασιθίου",
+    "slug": "agios-nikolaos-lasithioy",
+    "prefecture": "ΛΑΣΙΘΙΟΥ"
+  },
+  {
+    "city": "Άγιος Νικόλαος Μεσσηνίας",
+    "slug": "agios-nikolaos-messinias",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Άγιος Νικόλαος Χαλκιδικής",
+    "slug": "agios-nikolaos-xalkidikis",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Άγιος Παύλος",
+    "slug": "agios-paylos",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Άγιος Στέφανος",
+    "slug": "agios-stefanos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Άγναντα",
+    "slug": "agnanta",
+    "prefecture": "ΑΡΤΑΣ"
+  },
+  {
+    "city": "Άλιμος",
+    "slug": "alimos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Άμφισσα",
+    "slug": "amfissa",
+    "prefecture": "ΦΩΚΙΔΑΣ"
+  },
+  {
+    "city": "Άνοιξη",
+    "slug": "anoiksi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Άνω Λιόσια",
+    "slug": "ano-liosia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Άργος",
+    "slug": "argos",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "city": "Άργος Ορεστικού",
+    "slug": "argos-orestikoy",
+    "prefecture": "ΚΑΣΤΟΡΙΑΣ"
+  },
+  {
+    "city": "Άρτα",
+    "slug": "arta",
+    "prefecture": "ΑΡΤΑΣ"
+  },
+  {
+    "city": "Άσσος",
+    "slug": "assos",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Άστρος",
+    "slug": "astros",
+    "prefecture": "ΑΡΚΑΔΙΑΣ"
+  },
+  {
+    "city": "Έδεσσα",
+    "slug": "edessa",
+    "prefecture": "ΠΕΛΛΑΣ"
+  },
+  {
+    "city": "Έμπωνας",
+    "slug": "emponas",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Έξω Παναγίτσα",
+    "slug": "ekso-panagitsa",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Ίλιον",
+    "slug": "ilion",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ίσθμια",
+    "slug": "isthmia",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Αίγιο",
+    "slug": "aigio",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Αγία Βαρβάρα",
+    "slug": "agia-barbara",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αγία Μαρίνα Κορωπίου",
+    "slug": "agia-marina-koropioy",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αγία Παρασκευή",
+    "slug": "agia-paraskeyi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αγία Παρασκευή Λέσβου",
+    "slug": "agia-paraskeyi-lesboy",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Αγία Τριάδα Αργολίδας",
+    "slug": "agia-triada-argolidas",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "city": "Αγγελοχώρι Ημαθίας",
+    "slug": "aggeloxori-imathias",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "city": "Αγιά",
+    "slug": "agia",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Αγρίνιο",
+    "slug": "agrinio",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Αγριά",
+    "slug": "agria",
+    "prefecture": "ΜΑΓΝΗΣΙΑΣ"
+  },
+  {
+    "city": "Αθήνα",
+    "slug": "athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Άνω Πατήσια",
+    "slug": "ano-patissia-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Αμπελόκηποι",
+    "slug": "ampelokipi-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Γκάζι",
+    "slug": "gazi-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Γκύζη",
+    "slug": "gyzi-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Γουδή",
+    "slug": "goudi-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Εξάρχεια",
+    "slug": "exarchia-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Θησείο",
+    "slug": "thisio-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Ιλίσια",
+    "slug": "ilissia-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Κάτω Πατήσια",
+    "slug": "kato-patissia-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Κολωνάκι",
+    "slug": "kolonaki-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Κολωνός",
+    "slug": "kolonos-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Κουκάκι",
+    "slug": "koukaki-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Κυψέλη",
+    "slug": "kypseli-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Μοναστηράκι",
+    "slug": "monastiraki-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Νέα Φιλοθέη",
+    "slug": "nea-filothei-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Νέος Κόσμος",
+    "slug": "neos-kosmos-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Ομόνοια",
+    "slug": "omonia-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Παγκράτι",
+    "slug": "pagrati-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Πατήσια",
+    "slug": "patissia-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Σεπόλια",
+    "slug": "sepolia-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθήνα - Σύνταγμα",
+    "slug": "syntagma-athina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αθίκια",
+    "slug": "athikia",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Αιγάλεω",
+    "slug": "aigaleo",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αιγίνιο",
+    "slug": "aiginio",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "city": "Αιγείρα",
+    "slug": "aigeira",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Αιτωλικό",
+    "slug": "aitoliko",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Ακράτα",
+    "slug": "akrata",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Αλίαρτος",
+    "slug": "aliartos",
+    "prefecture": "ΒΟΙΩΤΙΑΣ"
+  },
+  {
+    "city": "Αλεξάνδρεια",
+    "slug": "aleksandreia",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "city": "Αλεξανδρούπολη",
+    "slug": "aleksandroypoli",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Αλιβέρι",
+    "slug": "aliberi",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Αλικιανός",
+    "slug": "alikianos",
+    "prefecture": "ΧΑΝΙΩΝ"
+  },
+  {
+    "city": "Αμαλιάδα",
+    "slug": "amaliada",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Αμπελάκια",
+    "slug": "ampelakia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αμπελόκηποι",
+    "slug": "ampelokipoi",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Αμπελώνας",
+    "slug": "ampelonas",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Αμφιλοχία",
+    "slug": "amfiloxia",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Ανάβυσσος",
+    "slug": "anabyssos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ανατολή",
+    "slug": "anatoli",
+    "prefecture": "ΙΩΑΝΝΙΝΩΝ"
+  },
+  {
+    "city": "Ανδραβίδα",
+    "slug": "andrabida",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Ανδρούσα",
+    "slug": "androysa",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Αντίρριο",
+    "slug": "antirrio",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Αντιμάχεια",
+    "slug": "antimaxeia",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Αξιούπολη",
+    "slug": "aksioypoli",
+    "prefecture": "ΚΙΛΚΙΣ"
+  },
+  {
+    "city": "Αργοστόλι",
+    "slug": "argostoli",
+    "prefecture": "ΚΕΦΑΛΛΗΝΙΑΣ"
+  },
+  {
+    "city": "Αργυρούπολη",
+    "slug": "argyroypoli",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αρεόπολη",
+    "slug": "areopoli",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Αριδαία",
+    "slug": "aridaia",
+    "prefecture": "ΠΕΛΛΑΣ"
+  },
+  {
+    "city": "Αρκαλοχώρι",
+    "slug": "arkaloxori",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Αρναία",
+    "slug": "arnaia",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Αρτέμιδα",
+    "slug": "artemida",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αρχάγγελος",
+    "slug": "arxaggelos",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Αρχαία Κόρινθος",
+    "slug": "arxaia-korinthos",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Αρχαία Ολυμπία",
+    "slug": "arxaia-olympia",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Ασβεστοχώρι",
+    "slug": "asbestoxori",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Ασπροβάλτα",
+    "slug": "asprobalta",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Ασπρόπυργος",
+    "slug": "aspropyrgos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αστακός",
+    "slug": "astakos",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Αυλώνα",
+    "slug": "aylona",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αφάντου",
+    "slug": "afantoy",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Αφίδνες",
+    "slug": "afidnes",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Αχαρνές",
+    "slug": "axarnes",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Βάγια",
+    "slug": "bagia",
+    "prefecture": "ΒΟΙΩΤΙΑΣ"
+  },
+  {
+    "city": "Βάρδα",
+    "slug": "barda",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Βάρη",
+    "slug": "bari",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Βέλο",
+    "slug": "belo",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Βέροια",
+    "slug": "beroia",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "city": "Βαθύ Σάμου",
+    "slug": "bathy-samoy",
+    "prefecture": "ΣΑΜΟΥ"
+  },
+  {
+    "city": "Βαρθολομιό",
+    "slug": "bartholomio",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Βασιλικό",
+    "slug": "basiliko",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Βλαχιώτης",
+    "slug": "blaxiotis",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Βουλιαγμένη",
+    "slug": "boyliagmeni",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Βουργαρέλι",
+    "slug": "boyrgareli",
+    "prefecture": "ΑΡΤΑΣ"
+  },
+  {
+    "city": "Βούλα",
+    "slug": "boyla",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Βραχάτι",
+    "slug": "braxati",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Βραχνέικα",
+    "slug": "braxneika",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Βριλήσσια",
+    "slug": "brilissia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Βροντάδος",
+    "slug": "brontados",
+    "prefecture": "ΧΙΟΥ"
+  },
+  {
+    "city": "Βόλος",
+    "slug": "bolos",
+    "prefecture": "ΜΑΓΝΗΣΙΑΣ"
+  },
+  {
+    "city": "Βόνιτσα",
+    "slug": "bonitsa",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Βύρωνας",
+    "slug": "byronas",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Γάζι",
+    "slug": "gazi",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Γάιος",
+    "slug": "gaios",
+    "prefecture": "ΚΕΡΚΥΡΑΣ"
+  },
+  {
+    "city": "Γέρακας",
+    "slug": "gerakas",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Γέφυρα Θεσσαλονίκης",
+    "slug": "gefyra-thessalonikis",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Γαβαλού",
+    "slug": "gabaloy",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Γαλάτιστα",
+    "slug": "galatista",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Γαλάτσι",
+    "slug": "galatsi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Γαλαξίδι",
+    "slug": "galaksidi",
+    "prefecture": "ΦΩΚΙΔΑΣ"
+  },
+  {
+    "city": "Γαργαλιάνοι",
+    "slug": "gargalianoi",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Γαστούνη",
+    "slug": "gastoyni",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Γαϊτάνι",
+    "slug": "gaitani",
+    "prefecture": "ΖΑΚΥΝΘΟΥ"
+  },
+  {
+    "city": "Γεννάδι",
+    "slug": "gennadi",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Γιάννουλη",
+    "slug": "giannoyli",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Γιαννιτσά",
+    "slug": "giannitsa",
+    "prefecture": "ΠΕΛΛΑΣ"
+  },
+  {
+    "city": "Γλυκά Νερά",
+    "slug": "glyka-nera",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Γλυφάδα",
+    "slug": "glyfada",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Γουμένισσα",
+    "slug": "goymenissa",
+    "prefecture": "ΚΙΛΚΙΣ"
+  },
+  {
+    "city": "Γούρνες Πεδιάδος",
+    "slug": "goyrnes-pediados",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Γρεβενά",
+    "slug": "grebena",
+    "prefecture": "ΓΡΕΒΕΝΩΝ"
+  },
+  {
+    "city": "Γύθειο",
+    "slug": "gytheio",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Δάφνη",
+    "slug": "dafni",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Δίκαια",
+    "slug": "dikaia",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Δεμένικα Σαραβάλιου",
+    "slug": "demenika-sarabalioy",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Διαβατά",
+    "slug": "diabata",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Διακοπτό",
+    "slug": "diakopto",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Διδυμότειχο",
+    "slug": "didymoteixo",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Δράμα",
+    "slug": "drama",
+    "prefecture": "ΔΡΑΜΑΣ"
+  },
+  {
+    "city": "Δραπετσώνα",
+    "slug": "drapetsona",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Δροσιά",
+    "slug": "drosia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Δροσιά Ευβοίας",
+    "slug": "drosia-eyboias",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Δρυμός",
+    "slug": "drymos",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Δώριο",
+    "slug": "dorio",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Ελασσόνα",
+    "slug": "elassona",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Ελεούσα",
+    "slug": "eleoysa",
+    "prefecture": "ΙΩΑΝΝΙΝΩΝ"
+  },
+  {
+    "city": "Ελευθέριο",
+    "slug": "eleytherio",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Ελευθερούπολη",
+    "slug": "eleytheroypoli",
+    "prefecture": "ΚΑΒΑΛΑΣ"
+  },
+  {
+    "city": "Ελευσίνα",
+    "slug": "eleysina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ελληνικό",
+    "slug": "elliniko",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ελούντα",
+    "slug": "eloynta",
+    "prefecture": "ΛΑΣΙΘΙΟΥ"
+  },
+  {
+    "city": "Εξοχή",
+    "slug": "eksoxi",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Επανομή",
+    "slug": "epanomi",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Επισκοπή Ηρακλείου",
+    "slug": "episkopi-irakleioy",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Ερέτρια",
+    "slug": "eretria",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Ερμιόνη",
+    "slug": "ermioni",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "city": "Ερμούπολη",
+    "slug": "ermoypoli",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "city": "Ευκαρπία",
+    "slug": "eykarpia",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Εύοσμος",
+    "slug": "eyosmos",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Ζάκυνθος",
+    "slug": "zakynthos",
+    "prefecture": "ΖΑΚΥΝΘΟΥ"
+  },
+  {
+    "city": "Ζαγκλιβέρι",
+    "slug": "zagkliberi",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Ζαχάρω",
+    "slug": "zaxaro",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Ζευγολατειό",
+    "slug": "zeygolateio",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Ζεφύρι",
+    "slug": "zefyri",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ζωγράφος",
+    "slug": "zografos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ηγουμενίτσα",
+    "slug": "igoymenitsa",
+    "prefecture": "ΘΕΣΠΡΩΤΙΑΣ"
+  },
+  {
+    "city": "Ηλιούπολη",
+    "slug": "ilioypoli",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ηράκλεια",
+    "slug": "irakleia",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "city": "Ηράκλειο",
+    "slug": "irakleio",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Θάσος",
+    "slug": "thasos",
+    "prefecture": "ΚΑΒΑΛΑΣ"
+  },
+  {
+    "city": "Θέρμη",
+    "slug": "thermi",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Θέρμο",
+    "slug": "thermo",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Θήβα",
+    "slug": "thiba",
+    "prefecture": "ΒΟΙΩΤΙΑΣ"
+  },
+  {
+    "city": "Θήρα",
+    "slug": "thira",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "city": "Θεσσαλονίκη",
+    "slug": "thessaloniki",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Θεσσαλονίκη - Ανάληψη",
+    "slug": "analipsi-thessaloniki",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Θεσσαλονίκη - Κέντρο",
+    "slug": "kentro-thessaloniki",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Θεσσαλονίκη - Πλατεία Δημοκρατίας",
+    "slug": "platia-dimokratias-thessaloniki",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Θεσσαλονίκη - Τούμπα",
+    "slug": "toumpa-thessaloniki",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Θεσσαλονίκη - Φάληρο",
+    "slug": "faliro-thessaloniki",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Θεσσαλονίκη - Χαριλάου",
+    "slug": "charilaou-thessaloniki",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Θουρία",
+    "slug": "thoyria",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Θρακομακεδόνες",
+    "slug": "thrakomakedones",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Θυμιανά",
+    "slug": "thymiana",
+    "prefecture": "ΧΙΟΥ"
+  },
+  {
+    "city": "Ιαλυσός",
+    "slug": "ialysos",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Ιεράπετρα",
+    "slug": "ierapetra",
+    "prefecture": "ΛΑΣΙΘΙΟΥ"
+  },
+  {
+    "city": "Ιερισσός",
+    "slug": "ierissos",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Ιστιαία",
+    "slug": "istiaia",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Ιτέα Φωκίδας",
+    "slug": "itea-fokidas",
+    "prefecture": "ΦΩΚΙΔΑΣ"
+  },
+  {
+    "city": "Ιωάννινα",
+    "slug": "ioannina",
+    "prefecture": "ΙΩΑΝΝΙΝΩΝ"
+  },
+  {
+    "city": "Ιωνία Θεσσαλονίκης",
+    "slug": "ionia-thessalonikis",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Κάλυμνος",
+    "slug": "kalymnos",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Κάντζα",
+    "slug": "kantza",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Κάρπαθος",
+    "slug": "karpathos",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Κάρυστος",
+    "slug": "karystos",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Κάτω Αχαία",
+    "slug": "kato-axaia",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Κάτω Σούλι",
+    "slug": "kato-soyli",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Κάτω Σχολάρι",
+    "slug": "kato-sxolari",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Κέρκυρα",
+    "slug": "kerkyra",
+    "prefecture": "ΚΕΡΚΥΡΑΣ"
+  },
+  {
+    "city": "Κέφαλος Κω",
+    "slug": "kefalos-ko",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Καβάλα",
+    "slug": "kabala",
+    "prefecture": "ΚΑΒΑΛΑΣ"
+  },
+  {
+    "city": "Καινούργιο",
+    "slug": "kainoyrgio",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Καισαριανή",
+    "slug": "kaisariani",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Καλάβρυτα",
+    "slug": "kalabryta",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Καλαμάτα",
+    "slug": "kalamata",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Καλαμαριά",
+    "slug": "kalamaria",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Καλαμπάκα",
+    "slug": "kalampaka",
+    "prefecture": "ΤΡΙΚΑΛΩΝ"
+  },
+  {
+    "city": "Καλλιθέα",
+    "slug": "kallithea",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Καλλιθέα Πιερίας",
+    "slug": "kallithea-pierias",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "city": "Καλλονή",
+    "slug": "kalloni",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Καλοχώρι",
+    "slug": "kaloxori",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Καλύβια Θορικού",
+    "slug": "kalybia-thorikoy",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Καμάρες",
+    "slug": "kamares",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Καμίνια",
+    "slug": "kaminia",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Καματερό",
+    "slug": "kamatero",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Καπανδρίτι",
+    "slug": "kapandriti",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Καρδάμυλα",
+    "slug": "kardamyla",
+    "prefecture": "ΧΙΟΥ"
+  },
+  {
+    "city": "Καρδίτσα",
+    "slug": "karditsa",
+    "prefecture": "ΚΑΡΔΙΤΣΑΣ"
+  },
+  {
+    "city": "Καρδαμίτσια",
+    "slug": "kardamitsia",
+    "prefecture": "ΙΩΑΝΝΙΝΩΝ"
+  },
+  {
+    "city": "Καρδαμύλη",
+    "slug": "kardamyli",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Καρδιά",
+    "slug": "kardia",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Καρλόβασι",
+    "slug": "karlobasi",
+    "prefecture": "ΣΑΜΟΥ"
+  },
+  {
+    "city": "Καρουσάδες",
+    "slug": "karoysades",
+    "prefecture": "ΚΕΡΚΥΡΑΣ"
+  },
+  {
+    "city": "Κασσάνδρεια",
+    "slug": "kassandreia",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Καστελλάνοι Μέσης",
+    "slug": "kastellanoi-mesis",
+    "prefecture": "ΚΕΡΚΥΡΑΣ"
+  },
+  {
+    "city": "Καστοριά",
+    "slug": "kastoria",
+    "prefecture": "ΚΑΣΤΟΡΙΑΣ"
+  },
+  {
+    "city": "Καστόρειο",
+    "slug": "kastoreio",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Καταστάρι",
+    "slug": "katastari",
+    "prefecture": "ΖΑΚΥΝΘΟΥ"
+  },
+  {
+    "city": "Κατερίνη",
+    "slug": "katerini",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "city": "Κατοχή",
+    "slug": "katoxi",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Κατούνα",
+    "slug": "katoyna",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Κερατέα",
+    "slug": "keratea",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Κερατσίνι",
+    "slug": "keratsini",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Κηφισιά",
+    "slug": "kifisia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Κιάτο",
+    "slug": "kiato",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Κιλκίς",
+    "slug": "kilkis",
+    "prefecture": "ΚΙΛΚΙΣ"
+  },
+  {
+    "city": "Κοζάνη",
+    "slug": "kozani",
+    "prefecture": "ΚΟΖΑΝΗΣ"
+  },
+  {
+    "city": "Κολινδρός",
+    "slug": "kolindros",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "city": "Κολύμπια",
+    "slug": "kolympia",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Κομοτηνή",
+    "slug": "komotini",
+    "prefecture": "ΡΟΔΟΠΗΣ"
+  },
+  {
+    "city": "Κομπότι",
+    "slug": "kompoti",
+    "prefecture": "ΑΡΤΑΣ"
+  },
+  {
+    "city": "Κοπανάκι",
+    "slug": "kopanaki",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Κοπανός",
+    "slug": "kopanos",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "city": "Κορινός",
+    "slug": "korinos",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "city": "Κορυδαλλός",
+    "slug": "korydallos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Κορωπί",
+    "slug": "koropi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Κορώνη",
+    "slug": "koroni",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Κοσκινού",
+    "slug": "koskinoy",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Κουνουπιδιανά",
+    "slug": "koynoypidiana",
+    "prefecture": "ΧΑΝΙΩΝ"
+  },
+  {
+    "city": "Κουφάλια",
+    "slug": "koyfalia",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Κράθιο",
+    "slug": "krathio",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Κρέστενα",
+    "slug": "krestena",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Κρανίδι",
+    "slug": "kranidi",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "city": "Κρεμαστή",
+    "slug": "kremasti",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Κροκεές",
+    "slug": "krokees",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Κρυονέρι",
+    "slug": "kryoneri",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Κρύα Βρύση",
+    "slug": "krya-brysi",
+    "prefecture": "ΠΕΛΛΑΣ"
+  },
+  {
+    "city": "Κυπαρισσία",
+    "slug": "kyparissia",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Κως",
+    "slug": "kos",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Κόρινθος",
+    "slug": "korinthos",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Κύμινα",
+    "slug": "kymina",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Λάρισα",
+    "slug": "larisa",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Λέρος",
+    "slug": "leros",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Λέχαιο",
+    "slug": "lexaio",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Λίμνη",
+    "slug": "limni",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Λίνδος",
+    "slug": "lindos",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Λαγκαδάς",
+    "slug": "lagkadas",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Λαγονήσι",
+    "slug": "lagonisi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Λαμία",
+    "slug": "lamia",
+    "prefecture": "ΦΘΙΩΤΙΔΑΣ"
+  },
+  {
+    "city": "Λαύριο",
+    "slug": "layrio",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Λεβίδι",
+    "slug": "lebidi",
+    "prefecture": "ΑΡΚΑΔΙΑΣ"
+  },
+  {
+    "city": "Λεπτοκαρυά",
+    "slug": "leptokarya",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "city": "Λευκάδα",
+    "slug": "leykada",
+    "prefecture": "ΛΕΥΚΑΔΑΣ"
+  },
+  {
+    "city": "Λευκίμμη",
+    "slug": "leykimmi",
+    "prefecture": "ΚΕΡΚΥΡΑΣ"
+  },
+  {
+    "city": "Λεχαινά",
+    "slug": "lexaina",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Λεωνίδι",
+    "slug": "leonidi",
+    "prefecture": "ΑΡΚΑΔΙΑΣ"
+  },
+  {
+    "city": "Ληξούρι",
+    "slug": "liksoyri",
+    "prefecture": "ΚΕΦΑΛΛΗΝΙΑΣ"
+  },
+  {
+    "city": "Λητή",
+    "slug": "liti",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Λιβάδι",
+    "slug": "libadi",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Λιβαδειά",
+    "slug": "libadeia",
+    "prefecture": "ΒΟΙΩΤΙΑΣ"
+  },
+  {
+    "city": "Λιμένας Χερσονήσου",
+    "slug": "limenas-xersonisoy",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Λιμενάρια",
+    "slug": "limenaria",
+    "prefecture": "ΚΑΒΑΛΑΣ"
+  },
+  {
+    "city": "Λιτόχωρο",
+    "slug": "litoxoro",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "city": "Λουτράκι",
+    "slug": "loytraki",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Λυγουριό",
+    "slug": "lygoyrio",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "city": "Λυκόβρυση",
+    "slug": "lykobrysi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μάλια",
+    "slug": "malia",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Μάνδρα",
+    "slug": "mandra",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μέγαρα",
+    "slug": "megara",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μέτσοβο",
+    "slug": "metsobo",
+    "prefecture": "ΙΩΑΝΝΙΝΩΝ"
+  },
+  {
+    "city": "Μήθυμνα",
+    "slug": "mithymna",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Μαγούλα",
+    "slug": "magoyla",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μακροχώρι Ημαθίας",
+    "slug": "makroxori-imathias",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "city": "Μανιάκοι",
+    "slug": "maniakoi",
+    "prefecture": "ΚΑΣΤΟΡΙΑΣ"
+  },
+  {
+    "city": "Μαραθώνας",
+    "slug": "marathonas",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μαριτσά",
+    "slug": "maritsa",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Μαρκόπουλο",
+    "slug": "markopoylo",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μαρούσι",
+    "slug": "maroysi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ματαράγκα",
+    "slug": "mataragka",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Μαχαιράδο",
+    "slug": "maxairado",
+    "prefecture": "ΖΑΚΥΝΘΟΥ"
+  },
+  {
+    "city": "Μεγαλόπολη",
+    "slug": "megalopoli",
+    "prefecture": "ΑΡΚΑΔΙΑΣ"
+  },
+  {
+    "city": "Μελίκη",
+    "slug": "meliki",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "city": "Μελίσσια",
+    "slug": "melissia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μελιγαλάς",
+    "slug": "meligalas",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Μελισσοχώρι",
+    "slug": "melissoxori",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Μενεμένη",
+    "slug": "menemeni",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Μεσολόγγι",
+    "slug": "mesologgi",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Μεσοποταμία",
+    "slug": "mesopotamia",
+    "prefecture": "ΚΑΣΤΟΡΙΑΣ"
+  },
+  {
+    "city": "Μεσσήνη",
+    "slug": "messini",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Μεταμόρφωση",
+    "slug": "metamorfosi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μολάοι",
+    "slug": "molaoi",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Μονεμβασιά",
+    "slug": "monembasia",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Μοσχάτο",
+    "slug": "mosxato",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Μουζάκι",
+    "slug": "moyzaki",
+    "prefecture": "ΚΑΡΔΙΤΣΑΣ"
+  },
+  {
+    "city": "Μουρνιές",
+    "slug": "moyrnies",
+    "prefecture": "ΧΑΝΙΩΝ"
+  },
+  {
+    "city": "Μοχός",
+    "slug": "moxos",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Μούδρος",
+    "slug": "moydros",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Μυτιλήνη",
+    "slug": "mytilini",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Μύρινα",
+    "slug": "myrina",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Νάξος",
+    "slug": "naksos",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "city": "Νάουσα",
+    "slug": "naoysa",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "city": "Νάουσα Πάρου",
+    "slug": "naoysa-paroy",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "city": "Νέα Αλικαρνασσός",
+    "slug": "nea-alikarnassos",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Νέα Αρτάκη",
+    "slug": "nea-artaki",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Νέα Βύσσα",
+    "slug": "nea-byssa",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Νέα Ερυθραία",
+    "slug": "nea-erythraia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Ζίχνη",
+    "slug": "nea-zixni",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "city": "Νέα Ηράκλεια",
+    "slug": "nea-irakleia",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Ιωνία",
+    "slug": "nea-ionia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Ιωνία Βόλου",
+    "slug": "nea-ionia-boloy",
+    "prefecture": "ΜΑΓΝΗΣΙΑΣ"
+  },
+  {
+    "city": "Νέα Κίος",
+    "slug": "nea-kios",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "city": "Νέα Καλλικράτεια",
+    "slug": "nea-kallikrateia",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Κερασιά",
+    "slug": "nea-kerasia",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Μάκρη",
+    "slug": "nea-makri",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Μηχανιώνα",
+    "slug": "nea-mixaniona",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Μουδανιά",
+    "slug": "nea-moydania",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Πέραμος Αττικής",
+    "slug": "nea-peramos-attikis",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Παλάτια",
+    "slug": "nea-palatia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Πεντέλη",
+    "slug": "nea-penteli",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Πλάγια",
+    "slug": "nea-plagia",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Ραιδεστός",
+    "slug": "nea-raidestos",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Σμύρνη",
+    "slug": "nea-smyrni",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Τρίγλια",
+    "slug": "nea-triglia",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Φιλαδέλφεια",
+    "slug": "nea-filadelfeia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Χαλκηδόνα",
+    "slug": "nea-xalkidona",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέα Χιλή",
+    "slug": "nea-xili",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Νέο Ηράκλειο",
+    "slug": "neo-irakleio",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέο Ψυχικό",
+    "slug": "neo-psyxiko",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέος Βουτζάς",
+    "slug": "neos-boytzas",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νέος Μαρμαράς",
+    "slug": "neos-marmaras",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Νέος Σκοπός",
+    "slug": "neos-skopos",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "city": "Νίκαια",
+    "slug": "nikaia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Νίκαια Λάρισας",
+    "slug": "nikaia-larisas",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Ναύπακτος",
+    "slug": "naypaktos",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Ναύπλιο",
+    "slug": "nayplio",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "city": "Νεάπολη Θεσσαλονίκης",
+    "slug": "neapoli-thessalonikis",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Νεάπολη Κρήτης",
+    "slug": "neapoli-kritis",
+    "prefecture": "ΛΑΣΙΘΙΟΥ"
+  },
+  {
+    "city": "Νεάπολη Λακωνίας",
+    "slug": "neapoli-lakonias",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Νεμέα",
+    "slug": "nemea",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Νεοχώρι Αιτωλοακαρνανίας",
+    "slug": "neoxori-aitoloakarnanias",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Νιγρίτα",
+    "slug": "nigrita",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "city": "Νικήτη",
+    "slug": "nikiti",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Ξάνθη",
+    "slug": "ksanthi",
+    "prefecture": "ΞΑΝΘΗΣ"
+  },
+  {
+    "city": "Ξηροκάμπι",
+    "slug": "ksirokampi",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Ξυλόκαστρο",
+    "slug": "ksylokastro",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Οβρυά",
+    "slug": "obrya",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Ορεστιάδα",
+    "slug": "orestiada",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Ορμύλια",
+    "slug": "ormylia",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Ορχομενός",
+    "slug": "orxomenos",
+    "prefecture": "ΒΟΙΩΤΙΑΣ"
+  },
+  {
+    "city": "Πάλαιρος",
+    "slug": "palairos",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Πάρος",
+    "slug": "paros",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "city": "Πάτρα",
+    "slug": "patra",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Πέραμα",
+    "slug": "perama",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Πέτα",
+    "slug": "peta",
+    "prefecture": "ΑΡΤΑΣ"
+  },
+  {
+    "city": "Παιανία",
+    "slug": "paiania",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Παλαιά Φώκαια",
+    "slug": "palaia-fokaia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Παλαιό Φάληρο",
+    "slug": "palaio-faliro",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Παλαμάς",
+    "slug": "palamas",
+    "prefecture": "ΚΑΡΔΙΤΣΑΣ"
+  },
+  {
+    "city": "Παλλήνη",
+    "slug": "pallini",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Παλούκια",
+    "slug": "paloykia",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Παναιτώλιο",
+    "slug": "panaitolio",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Πανόραμα",
+    "slug": "panorama",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Παπάγος",
+    "slug": "papagos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Παπαδιάνικα",
+    "slug": "papadianika",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Παππάδος",
+    "slug": "pappados",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Παραβόλα",
+    "slug": "parabola",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "city": "Παραδείσι",
+    "slug": "paradeisi",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Παραλία Πατρών",
+    "slug": "paralia-patron",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Παραμυθιά",
+    "slug": "paramythia",
+    "prefecture": "ΘΕΣΠΡΩΤΙΑΣ"
+  },
+  {
+    "city": "Παστίδα",
+    "slug": "pastida",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Πεδινή",
+    "slug": "pedini",
+    "prefecture": "ΙΩΑΝΝΙΝΩΝ"
+  },
+  {
+    "city": "Πειραιάς",
+    "slug": "peiraias",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Πεντέλη",
+    "slug": "penteli",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Περαία",
+    "slug": "peraia",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Περαχώρα",
+    "slug": "peraxora",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Περιστέρι",
+    "slug": "peristeri",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Πετρούπολη",
+    "slug": "petroypoli",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Πευκοχώρι",
+    "slug": "peykoxori",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Πεύκα - Ρετζίκι",
+    "slug": "peyka-retziki",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Πεύκη",
+    "slug": "peyki",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Πικέρμι",
+    "slug": "pikermi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Πλαγιάρι",
+    "slug": "plagiari",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Πλαταμώνας",
+    "slug": "platamonas",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "city": "Πλατανιάς",
+    "slug": "platanias",
+    "prefecture": "ΧΑΝΙΩΝ"
+  },
+  {
+    "city": "Πλατύ",
+    "slug": "platy",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "city": "Πλωμάρι",
+    "slug": "plomari",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Πολίχνη",
+    "slug": "polixni",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Πολίχνιτος",
+    "slug": "polixnitos",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "city": "Πολύγυρος",
+    "slug": "polygyros",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Πολύκαστρο",
+    "slug": "polykastro",
+    "prefecture": "ΚΙΛΚΙΣ"
+  },
+  {
+    "city": "Πρέβεζα",
+    "slug": "prebeza",
+    "prefecture": "ΠΡΕΒΕΖΑΣ"
+  },
+  {
+    "city": "Πρίνος",
+    "slug": "prinos",
+    "prefecture": "ΚΑΒΑΛΑΣ"
+  },
+  {
+    "city": "Πτολεμαίδα",
+    "slug": "ptolemaida",
+    "prefecture": "ΚΟΖΑΝΗΣ"
+  },
+  {
+    "city": "Πυλαία",
+    "slug": "pylaia",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Πυργετός",
+    "slug": "pyrgetos",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Πόρτο Ράφτη",
+    "slug": "porto-rafti",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Πύλη",
+    "slug": "pyli",
+    "prefecture": "ΤΡΙΚΑΛΩΝ"
+  },
+  {
+    "city": "Πύλος",
+    "slug": "pylos",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Πύργος Ηλείας",
+    "slug": "pyrgos-ileias",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Ρέθυμνο",
+    "slug": "rethymno",
+    "prefecture": "ΡΕΘΥΜΝΟΥ"
+  },
+  {
+    "city": "Ρίο",
+    "slug": "rio",
+    "prefecture": "ΑΧΑΪΑΣ"
+  },
+  {
+    "city": "Ραφήνα",
+    "slug": "rafina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ροδίτσα",
+    "slug": "roditsa",
+    "prefecture": "ΦΘΙΩΤΙΔΑΣ"
+  },
+  {
+    "city": "Ροδόπολη",
+    "slug": "rodopoli",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "city": "Ροδόπολη Αττικής",
+    "slug": "rodopoli-attikis",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ρόδος",
+    "slug": "rodos",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Σέρβια",
+    "slug": "serbia",
+    "prefecture": "ΚΟΖΑΝΗΣ"
+  },
+  {
+    "city": "Σέρρες",
+    "slug": "serres",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "city": "Σίνδος",
+    "slug": "sindos",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Σαλαμίνα",
+    "slug": "salamina",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Σαρωνίδα",
+    "slug": "saronida",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Σητεία",
+    "slug": "siteia",
+    "prefecture": "ΛΑΣΙΘΙΟΥ"
+  },
+  {
+    "city": "Σιάτιστα",
+    "slug": "siatista",
+    "prefecture": "ΚΟΖΑΝΗΣ"
+  },
+  {
+    "city": "Σιδηρόκαστρο",
+    "slug": "sidirokastro",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "city": "Σκάλα",
+    "slug": "skala",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Σκάλα Ωρωπού",
+    "slug": "skala-oropoy",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Σκιάθος",
+    "slug": "skiathos",
+    "prefecture": "ΜΑΓΝΗΣΙΑΣ"
+  },
+  {
+    "city": "Σκριπερό",
+    "slug": "skripero",
+    "prefecture": "ΚΕΡΚΥΡΑΣ"
+  },
+  {
+    "city": "Σκόπελος",
+    "slug": "skopelos",
+    "prefecture": "ΜΑΓΝΗΣΙΑΣ"
+  },
+  {
+    "city": "Σκύδρα",
+    "slug": "skydra",
+    "prefecture": "ΠΕΛΛΑΣ"
+  },
+  {
+    "city": "Σορωνή",
+    "slug": "soroni",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Σουφλί",
+    "slug": "soyfli",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Σοφάδες",
+    "slug": "sofades",
+    "prefecture": "ΚΑΡΔΙΤΣΑΣ"
+  },
+  {
+    "city": "Σούδα",
+    "slug": "soyda",
+    "prefecture": "ΧΑΝΙΩΝ"
+  },
+  {
+    "city": "Σπάρτη",
+    "slug": "sparti",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "city": "Σπάτα",
+    "slug": "spata",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Σταλίδα",
+    "slug": "stalida",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "city": "Σταμάτα",
+    "slug": "stamata",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Σταυρούπολη",
+    "slug": "stayroypoli",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Σταυρός",
+    "slug": "stayros",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Συκιά",
+    "slug": "sykia",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Συκιές",
+    "slug": "sykies",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Σύμη",
+    "slug": "symi",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Ταύρος",
+    "slug": "tayros",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Τολό",
+    "slug": "tolo",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "city": "Τρίκαλα",
+    "slug": "trikala",
+    "prefecture": "ΤΡΙΚΑΛΩΝ"
+  },
+  {
+    "city": "Τρίλοφος",
+    "slug": "trilofos",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Τρίπολη",
+    "slug": "tripoli",
+    "prefecture": "ΑΡΚΑΔΙΑΣ"
+  },
+  {
+    "city": "Τραγανό",
+    "slug": "tragano",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "city": "Τριάδι Θέρμης",
+    "slug": "triadi-thermis",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Τριανδρία",
+    "slug": "triandria",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Τρόπαια",
+    "slug": "tropaia",
+    "prefecture": "ΑΡΚΑΔΙΑΣ"
+  },
+  {
+    "city": "Τσιλιβί",
+    "slug": "tsilibi",
+    "prefecture": "ΖΑΚΥΝΘΟΥ"
+  },
+  {
+    "city": "Τυχερό",
+    "slug": "tyxero",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Τύρναβος",
+    "slug": "tyrnabos",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Υμηττός",
+    "slug": "ymittos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Φάρσαλα",
+    "slug": "farsala",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Φέρες",
+    "slug": "feres",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "city": "Φίλυρο",
+    "slug": "filyro",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Φαλάνη",
+    "slug": "falani",
+    "prefecture": "ΛΑΡΙΣΑΣ"
+  },
+  {
+    "city": "Φαληράκι",
+    "slug": "faliraki",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΩΝ"
+  },
+  {
+    "city": "Φαρκαδώνα",
+    "slug": "farkadona",
+    "prefecture": "ΤΡΙΚΑΛΩΝ"
+  },
+  {
+    "city": "Φιλιάτες",
+    "slug": "filiates",
+    "prefecture": "ΘΕΣΠΡΩΤΙΑΣ"
+  },
+  {
+    "city": "Φιλιατρά",
+    "slug": "filiatra",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Φιλοθέη",
+    "slug": "filothei",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Φλώρινα",
+    "slug": "florina",
+    "prefecture": "ΦΛΩΡΙΝΑΣ"
+  },
+  {
+    "city": "Φυλή",
+    "slug": "fyli",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Χίος",
+    "slug": "xios",
+    "prefecture": "ΧΙΟΥ"
+  },
+  {
+    "city": "Χαλάνδρι",
+    "slug": "xalandri",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Χαλάστρα",
+    "slug": "xalastra",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Χαλκίδα",
+    "slug": "xalkida",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Χαλκηδόνα",
+    "slug": "xalkidona",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Χαλκούτσι",
+    "slug": "xalkoytsi",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Χανιά",
+    "slug": "xania",
+    "prefecture": "ΧΑΝΙΩΝ"
+  },
+  {
+    "city": "Χανιώτης",
+    "slug": "xaniotis",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "city": "Χαϊδάρι",
+    "slug": "xaidari",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Χιλιομόδι",
+    "slug": "xiliomodi",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "city": "Χολαργός",
+    "slug": "xolargos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Χορτιάτης",
+    "slug": "xortiatis",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Χρυσούπολη",
+    "slug": "xrysoypoli",
+    "prefecture": "ΚΑΒΑΛΑΣ"
+  },
+  {
+    "city": "Χρυσό",
+    "slug": "xryso",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "city": "Χώρα Τριφυλίας",
+    "slug": "xora-trifylias",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "city": "Ψαχνά",
+    "slug": "psaxna",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "city": "Ψυχικό",
+    "slug": "psyxiko",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  },
+  {
+    "city": "Ωραιόκαστρο",
+    "slug": "oraiokastro",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "city": "Ωρωπός",
+    "slug": "oropos",
+    "prefecture": "ΑΤΤΙΚΗΣ"
+  }
+]

@@ -1,0 +1,64 @@
+name: Multi-Daily Pharmacy Rosters & Release Builder
+
+on:
+  schedule:
+    # 3 times daily (UTC): early morning (04:17 UTC / 07:17 Athens),
+    # midday (10:47 UTC / 13:47 Athens), evening (16:23 UTC / 19:23 Athens)
+    - cron: '17 4 * * *'
+    - cron: '47 10 * * *'
+    - cron: '23 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pharmacy-updater
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-release:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Crawl on-duty pharmacy shifts
+        run: python scraper.py
+
+      - name: Package dataset & compress artifacts
+        run: python package_dataset.py
+
+      - name: Commit updated master registry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/pharmacies_master.json
+          git diff --staged --quiet || git commit -m "chore(data): sync master registry [skip ci]"
+          git push || true
+
+      - name: Publish GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG=$(cat tag.txt)
+          gh release create "$TAG" \
+            pharmacies_latest.min.json \
+            pharmacies_latest.min.json.zst \
+            --title "PharmaFinder Greece $TAG" \
+            --notes-file release_notes.md \
+            --latest
