@@ -7629,34 +7629,33 @@
   {
     "id": "b1Ocq_CuSyqEJHOI2UCYdQ",
     "handle": "ananiadoy-eycharis-l-thessaloniki",
-    "name": "ANANIADOY EYCHARIS L",
-    "address": "Θεσσαλονίκη",
+    "name": "Ανανιάδου Εύχαρις Λ.",
+    "address": "Άνω Τζουμαγιάς 55, Θεσσαλονίκη, 54453, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.64496,
-    "longitude": 22.935,
+    "phone": "2310989239",
+    "latitude": 40.61623969,
+    "longitude": 22.96944663,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -7828,7 +7827,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -12204,7 +12214,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -16572,7 +16593,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -18671,34 +18703,33 @@
   {
     "id": "X4RrMHzQSTuZaJeaA8uhrw",
     "handle": "avramidis-eleytherios-kai-sia-oe-thessaloniki",
-    "name": "AVRAMIDIS ELEYTHERIOS KAI SIA OE",
-    "address": "Θεσσαλονίκη",
+    "name": "ΑΒΡΑΜΙΔΗΣ ΕΛΕΥΘΕΡΙΟΣ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Ολύμπου 81, Θεσσαλονίκη, 54631, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.65008,
-    "longitude": 22.9361,
+    "phone": "2311112375",
+    "latitude": 40.63788299,
+    "longitude": 22.94701197,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -20912,40 +20943,50 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
     "id": "eCzhVTneQyaGb2f5hWmgdw",
     "handle": "chamalaki-chrysa-irakleio",
-    "name": "CHAMALAKI CHRYSA",
-    "address": "Ηράκλειο",
+    "name": "ΧΑΜΑΛΑΚΗ ΧΡΥΣΑ",
+    "address": "Λ. Ικάρου 44, δίπλα στα McDonalds, Ηράκλειο, 71306, ΗΡΑΚΛΕΙΟΥ",
     "city": "Ηράκλειο",
     "municipality": "Ηράκλειο",
     "postalCode": "",
     "prefecture": "ΗΡΑΚΛΕΙΟΥ",
-    "phone": null,
-    "latitude": 35.3187,
-    "longitude": 25.1349,
+    "phone": "2810256280",
+    "latitude": 35.33871009,
+    "longitude": 25.14169264,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "22:00:00",
+            "closes_at": "08:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -21265,34 +21306,38 @@
   {
     "id": "KQQuB6LQTZ2QzpPbn42X4Q",
     "handle": "chamogeorgakis-spyridon-m-ilioypoli",
-    "name": "CHAMOGEORGAKIS SPYRIDON M",
-    "address": "Ηλιούπολη",
+    "name": "Χαμογεωργάκης Σπυρίδων Μ.",
+    "address": "Πανταζή Κ. 9, Ηλιούπολη, 16346, ΑΤΤΙΚΗΣ",
     "city": "Ηλιούπολη",
     "municipality": "Ηλιούπολη",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.9278,
-    "longitude": 23.75356,
+    "phone": "2109760618",
+    "latitude": 37.93971672,
+    "longitude": 23.74741908,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -22432,7 +22477,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -23020,34 +23076,33 @@
   {
     "id": "viWoXty-QKqyeQm784bZBg",
     "handle": "charopoylos-konstantinos-kai-sia-oe-peristeri",
-    "name": "CHAROPOYLOS KONSTANTINOS KAI SIA OE",
-    "address": "Περιστέρι",
+    "name": "ΧΑΡΟΠΟΥΛΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Πελασγίας 61, Έναντι 7ης Στάσης, Περιστέρι - Νέα Ζωή, 12136, ΑΤΤΙΚΗΣ",
     "city": "Περιστέρι",
     "municipality": "Περιστέρι",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 38.00722,
-    "longitude": 23.693,
+    "phone": "2105755928",
+    "latitude": 38.01339035,
+    "longitude": 23.68159501,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -23115,7 +23170,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "08:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -23452,7 +23518,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -26568,34 +26645,33 @@
   {
     "id": "Qw00urdySfeJyVqbcKDWww",
     "handle": "chavellas-konstantinos-kai-sia-oe-athina",
-    "name": "CHAVELLAS KONSTANTINOS KAI SIA OE",
-    "address": "Αθήνα",
+    "name": "ΧΑΒΕΛΛΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Κυψέλης 100, Αθήνα - Κυψέλη, 11363, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.984,
-    "longitude": 23.73024,
+    "phone": "2108213753",
+    "latitude": 38.00228145,
+    "longitude": 23.74195445,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -30622,7 +30698,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -30638,12 +30725,23 @@
     "latitude": 40.604212,
     "longitude": 22.967918,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:00 – 21:00",
+    "status": "open",
+    "closesAt": "21:00:00",
     "dutyPeriods": [],
     "duties": {
-      "today": {},
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      },
       "tomorrow": {
         "is_on_duty": true,
         "closes_at": "23:59:00",
@@ -31777,7 +31875,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -34189,34 +34298,33 @@
   {
     "id": "bJYQ3KJETuGtS1VwyAPBTQ",
     "handle": "daskalakis-emmanoyil-s-irakleio",
-    "name": "DASKALAKIS EMMANOYIL S",
-    "address": "Ηράκλειο",
+    "name": "Δασκαλάκης Εμμανουήλ Σ.",
+    "address": "Λεωφόρος Παπανδρέου Ανδρέα 25 & Πετράκη Λουκά, Ηράκλειο, 71305, ΗΡΑΚΛΕΙΟΥ",
     "city": "Ηράκλειο",
     "municipality": "Ηράκλειο",
     "postalCode": "",
     "prefecture": "ΗΡΑΚΛΕΙΟΥ",
-    "phone": null,
-    "latitude": 35.33372,
-    "longitude": 25.13644,
+    "phone": "2810341858",
+    "latitude": 35.33084344,
+    "longitude": 25.13353923,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -34695,34 +34803,33 @@
   {
     "id": "sjbWvH9ZSHOPeFQDWuPIyQ",
     "handle": "dayidis-georgios-k-alexandreia",
-    "name": "DAYIDIS GEORGIOS K ALEXANDREIA",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "Δαυίδης Γεώργιος Κ.",
+    "address": "Πλαστήρα Νικολάου 87, Έναντι Σούπερ Μάρκετ Μασούτης, Αλεξάνδρεια, 59300, ΗΜΑΘΙΑΣ",
+    "city": "Αλεξάνδρεια",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 37.99446,
-    "longitude": 23.69408,
+    "phone": "2333101014",
+    "latitude": 40.63008659,
+    "longitude": 22.4408913,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -35241,34 +35348,33 @@
   {
     "id": "8FJtMMD-SjOUm30WNhw56Q",
     "handle": "deligiorgis-konstantinos-kai-sia-oe-thessaloniki",
-    "name": "DELIGIORGIS KONSTANTINOS KAI SIA OE",
-    "address": "Θεσσαλονίκη",
+    "name": "ΔΕΛΗΓΙΩΡΓΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Αγίας Σοφίας 23, Θεσσαλονίκη, 54623, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.6397,
-    "longitude": 22.93232,
+    "phone": "2310260163",
+    "latitude": 40.63258631,
+    "longitude": 22.94507318,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -42067,34 +42173,38 @@
   {
     "id": "WvKTikQRTHe3tRYvIiJ57Q",
     "handle": "drogosi-thaleia-peiraias",
-    "name": "DROGOSI THALEIA",
-    "address": "Πειραιάς",
+    "name": "Δρογώση Θάλεια",
+    "address": "Παλαιολόγου Κ. 7 & Ηρώων Πολυτεχνείου 60, Πειραιάς, 18535, ΑΤΤΙΚΗΣ",
     "city": "Πειραιάς",
     "municipality": "Πειραιάς",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.94416,
-    "longitude": 23.6427,
+    "phone": "2104133066",
+    "latitude": 37.94087659,
+    "longitude": 23.64508038,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -43416,34 +43526,33 @@
   {
     "id": "pYQUxh8xTiKzALERclj2Og",
     "handle": "eleni-tsaroycha-kai-sia-ee-thessaloniki",
-    "name": "ELENI TSAROYCHA KAI SIA EE",
-    "address": "Θεσσαλονίκη",
+    "name": "ΕΛΕΝΗ ΤΣΑΡΟΥΧΑ ΚΑΙ ΣΙΑ ΕΕ",
+    "address": "Γούναρη Δ. 44, Θεσσαλονίκη - Καμάρα, 54621, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.6371,
-    "longitude": 22.9328,
+    "phone": "2310220040",
+    "latitude": 40.63150868,
+    "longitude": 22.95138072,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -44089,7 +44198,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -44823,7 +44943,7 @@
     "latitude": 38.02282833,
     "longitude": 23.74928741,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 14:30 · 17:00 – 08:00",
+    "operatingHours": "08:00 – 14:30 · 09:00 – 14:30 · 17:00 – 08:00",
     "status": "open",
     "closesAt": "08:00:00",
     "dutyPeriods": [],
@@ -44838,6 +44958,11 @@
             "date": null
           },
           {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": null
+          },
+          {
             "opens_at": "17:00:00",
             "closes_at": "08:00:00",
             "date": null
@@ -44845,7 +44970,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -45318,7 +45454,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -45451,7 +45603,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -46573,7 +46741,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -48149,7 +48328,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -49272,7 +49462,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -49580,34 +49781,33 @@
   {
     "id": "ramnatmZS7Wf3CN8cnBA3w",
     "handle": "farmakeio-alexandros-kofos-artemis-kofoy-oe-thessaloniki",
-    "name": "FARMAKEIO ALEXANDROS KOFOS ARTEMIS KOFOY OE",
-    "address": "Θεσσαλονίκη",
+    "name": "ΦΑΡΜΑΚΕΙΟ ΑΛΕΞΑΝΔΡΟΣ ΚΩΦΟΣ ΑΡΤΕΜΙΣ ΚΩΦΟΥ ΟΕ",
+    "address": "Εγνατίας 59, Θεσσαλονίκη, 54631, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.64228,
-    "longitude": 22.93264,
+    "phone": "2310237668",
+    "latitude": 40.63658428,
+    "longitude": 22.94290535,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -50180,7 +50380,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "21:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -52531,7 +52742,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -53976,34 +54198,33 @@
   {
     "id": "Sc9KPjW9TPuLTFlstMki2A",
     "handle": "farmakeio-panagiotopoyloy-vasiliki-kai-sia-ee-agios-nikolaos-lasithioy",
-    "name": "FARMAKEIO PANAGIOTOPOYLOY VASILIKI KAI SIA EE",
-    "address": "Άγιος Νικόλαος Λασιθίου",
+    "name": "ΦΑΡΜΑΚΕΙΟ ΠΑΝΑΓΙΩΤΟΠΟΥΛΟΥ ΒΑΣΙΛΙΚΗ ΚΑΙ ΣΙΑ ΕΕ",
+    "address": "Παπανδρέου Ανδρέα 11, Έναντι Κεντρικής Εισόδου Γενικού Νοσοκομείου, Άγιος Νικόλαος Λασιθίου, 72150, ΛΑΣΙΘΙΟΥ",
     "city": "Άγιος Νικόλαος Λασιθίου",
     "municipality": "Άγιος Νικόλαος Λασιθίου",
     "postalCode": "",
     "prefecture": "ΛΑΣΙΘΙΟΥ",
-    "phone": null,
-    "latitude": 37.99592,
-    "longitude": 23.70636,
+    "phone": "2841024291",
+    "latitude": 35.19494686,
+    "longitude": 25.71278108,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -55640,34 +55861,33 @@
   {
     "id": "OQdTAu0dSV2P4zNG0_H5Sg",
     "handle": "farmakeio-theologias-konstantopoyloy-kai-sia-oe-athina",
-    "name": "FARMAKEIO THEOLOGIAS KONSTANTOPOYLOY KAI SIA OE",
-    "address": "Αθήνα",
+    "name": "ΦΑΡΜΑΚΕΙΟ ΘΕΟΛΟΓΙΑΣ ΚΩΝΣΤΑΝΤΟΠΟΥΛΟΥ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Αδριανουπόλεως 16-18 & Αγίας Σοφίας, Αθήνα - Κολωνός, 10444, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.98304,
-    "longitude": 23.71922,
+    "phone": "2105128806",
+    "latitude": 37.993966,
+    "longitude": 23.718585,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -56433,7 +56653,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -56807,7 +57038,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -59991,34 +60233,33 @@
   {
     "id": "KcjlEx3oROOpIO5fZElGnA",
     "handle": "foyrnari-margarita-kai-sia-ee-irakleio",
-    "name": "FOYRNARI MARGARITA KAI SIA EE",
-    "address": "Ηράκλειο",
+    "name": "ΦΟΥΡΝΑΡΗ ΜΑΡΓΑΡΙΤΑ ΚΑΙ ΣΙΑ ΕΕ",
+    "address": "Έβανς Άρθουρ 34, Ηράκλειο, 71201, ΗΡΑΚΛΕΙΟΥ",
     "city": "Ηράκλειο",
     "municipality": "Ηράκλειο",
     "postalCode": "",
     "prefecture": "ΗΡΑΚΛΕΙΟΥ",
-    "phone": null,
-    "latitude": 35.32222,
-    "longitude": 25.15148,
+    "phone": "2810225279",
+    "latitude": 35.33726037,
+    "longitude": 25.1338269,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -61376,34 +61617,33 @@
   {
     "id": "KklfEJRSRcSKeXFhgQtWSA",
     "handle": "fyrfyri-vasiliki-thessaloniki",
-    "name": "FYRFYRI VASILIKI",
-    "address": "Θεσσαλονίκη",
+    "name": "Φυρφύρη Βασιλική",
+    "address": "Δελφών 165 & Σακελλαρίδη, Στάση Τζαβέλλα, Θεσσαλονίκη, 54248, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.6393,
-    "longitude": 22.93628,
+    "phone": "2310319356",
+    "latitude": 40.59771686,
+    "longitude": 22.96026455,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -61444,34 +61684,33 @@
   {
     "id": "1sEF6In8Qfy8imQbSAeeRQ",
     "handle": "fytopoylos-georgios-k-veroia",
-    "name": "FYTOPOYLOS GEORGIOS K VEROIA",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "Φυτόπουλος Γεώργιος Κ.",
+    "address": "Παυσανίου 3, Βέροια, 59131, ΗΜΑΘΙΑΣ",
+    "city": "Βέροια",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 37.99908,
-    "longitude": 23.69366,
+    "phone": "2331075180",
+    "latitude": 40.53348234,
+    "longitude": 22.20630341,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "14:30:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -65452,34 +65691,33 @@
   {
     "id": "ZbBPCA_PTN2wc-I-_jujBA",
     "handle": "georgioy-eirini-e-athina",
-    "name": "GEORGIOY EIRINI E",
-    "address": "Αθήνα",
+    "name": "Γεωργίου Ειρήνη Ε.",
+    "address": "Ακαδημίας 83-85, Έναντι ΚΕΠ, Αθήνα - Πλατεία Κάνιγγος, 10678, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.98224,
-    "longitude": 23.71886,
+    "phone": "2103819964",
+    "latitude": 37.98443137,
+    "longitude": 23.73189293,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -65995,7 +66233,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -66900,7 +67154,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -67410,7 +67675,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -68022,34 +68298,33 @@
   {
     "id": "rL5fkPpjRpaR0ssZEkg7Fg",
     "handle": "giannakopoyloy-ee-galatsi",
-    "name": "GIANNAKOPOYLOY EE",
-    "address": "Γαλάτσι",
+    "name": "ΓΙΑΝΝΑΚΟΠΟΥΛΟΥ ΕΕ",
+    "address": "Λεωφόρος Βεΐκου 58, Γαλάτσι, 11147, ΑΤΤΙΚΗΣ",
     "city": "Γαλάτσι",
     "municipality": "Γαλάτσι",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 38.01506,
-    "longitude": 23.74744,
+    "phone": "2102915323",
+    "latitude": 38.0193736,
+    "longitude": 23.7565222,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -69030,7 +69305,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -70017,7 +70308,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "02:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "02:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -71704,7 +72006,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -73169,7 +73482,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -74871,7 +75195,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -74944,34 +75279,38 @@
   {
     "id": "JoIlRltLQAGJVKAjeuaL9Q",
     "handle": "goylas-ioannis-a-peiraias",
-    "name": "GOYLAS IOANNIS A",
-    "address": "Πειραιάς",
+    "name": "Γούλας Ιωάννης Α.",
+    "address": "Αθανασίου Βασιλείου 49, Πειραιάς - Χατζηκυριάκειο, 18539, ΑΤΤΙΚΗΣ",
     "city": "Πειραιάς",
     "municipality": "Πειραιάς",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.94274,
-    "longitude": 23.64098,
+    "phone": "2104286785",
+    "latitude": 37.93094361,
+    "longitude": 23.63019876,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -76860,17 +77199,17 @@
   {
     "id": "ABDTqCL3QUmGBB20N9hM5Q",
     "handle": "grimanellis-konstantinos-i-athina",
-    "name": "GRIMANELLIS KONSTANTINOS I",
-    "address": "Αθήνα",
+    "name": "Γρημανέλλης Κωνσταντίνος Ι.",
+    "address": "Κρυστάλλη 25, Αθήνα - Άνω Πατήσια, 11141, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": "2105230252",
-    "latitude": 37.98576,
-    "longitude": 23.72848,
+    "phone": "2102912187",
+    "latitude": 38.01808343,
+    "longitude": 23.7436367,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 08:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [
@@ -76881,19 +77220,18 @@
       }
     ],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -77439,68 +77777,66 @@
   {
     "id": "AKwsOlpBSE64ZMH3S_HLMQ",
     "handle": "herbphoria-pharmacy-ee-thessaloniki",
-    "name": "HERBPHORIA PHARMACY EE",
-    "address": "Θεσσαλονίκη",
+    "name": "HERBPHORIA PHARMACY ΕΕ",
+    "address": "Κωνσταντινουπόλεως 5 & Δελφών, Θεσσαλονίκη - Φάληρο, 54639, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.65,
-    "longitude": 22.94464,
+    "phone": "2310852756",
+    "latitude": 0,
+    "longitude": 0,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
   {
     "id": "UZxm6amfQyydYAew3h_zfQ",
     "handle": "herbphoria-pharmacy-ee-thessaloniki-faliro",
-    "name": "HERBPHORIA PHARMACY EE THESSALONIKI FALIRO",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "HERBPHORIA PHARMACY ΕΕ",
+    "address": "Κωνσταντινουπόλεως 5 & Δελφών, Θεσσαλονίκη - Φάληρο, 54639, ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "city": "Θεσσαλονίκη - Φάληρο",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 37.99128,
-    "longitude": 23.7027,
+    "phone": "2310852756",
+    "latitude": 0,
+    "longitude": 0,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -78619,34 +78955,33 @@
   {
     "id": "r4V8lX5sS16vkzIV9SVXSA",
     "handle": "iliopoylos-epameinondas-n-athina",
-    "name": "ILIOPOYLOS EPAMEINONDAS N",
-    "address": "Αθήνα",
+    "name": "Ηλιόπουλος Επαμεινώνδας Ν.",
+    "address": "Αργολίδος 13, Αθήνα - Αμπελόκηποι, 11523, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.98418,
-    "longitude": 23.72364,
+    "phone": "2106928218",
+    "latitude": 37.98912129,
+    "longitude": 23.76277179,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -83490,7 +83825,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -90832,7 +91178,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "08:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -92114,7 +92471,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -96114,7 +96482,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -98563,7 +98942,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -99167,7 +99557,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -99183,12 +99584,28 @@
     "latitude": 40.59870294,
     "longitude": 22.9708135,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:30 – 14:30 · 21:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [],
     "duties": {
-      "today": {},
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:30:00",
+            "date": null
+          },
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      },
       "tomorrow": {
         "is_on_duty": true,
         "closes_at": "08:00:00",
@@ -101953,34 +102370,33 @@
   {
     "id": "pquQ1mGmTdCicRVKjKNdxg",
     "handle": "kavvadias-diomidis-p-kerkyra",
-    "name": "KAVVADIAS DIOMIDIS P",
-    "address": "Κέρκυρα",
+    "name": "Καββαδίας Διομήδης Π.",
+    "address": "Λύχνου Γερασίμου 2 & Κωνσταντά, Κέρκυρα - Πλατεία Ψυχιατρείου, 49132, ΚΕΡΚΥΡΑΣ",
     "city": "Κέρκυρα",
     "municipality": "Κέρκυρα",
     "postalCode": "",
     "prefecture": "ΚΕΡΚΥΡΑΣ",
-    "phone": null,
-    "latitude": 39.63174,
-    "longitude": 19.92232,
+    "phone": "2661043339",
+    "latitude": 39.62174537,
+    "longitude": 19.91588134,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -108025,7 +108441,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -108348,34 +108780,33 @@
   {
     "id": "BphtqkbmTcqmGhND44KVrA",
     "handle": "komari-maria-s-thessaloniki",
-    "name": "KOMARI MARIA S",
-    "address": "Θεσσαλονίκη",
+    "name": "Κόμαρη Μαρία Σ.",
+    "address": "Βενιζέλου 23, Θεσσαλονίκη, 54624, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.64168,
-    "longitude": 22.94332,
+    "phone": "2310221600",
+    "latitude": 40.63623412,
+    "longitude": 22.94106614,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -109326,34 +109757,33 @@
   {
     "id": "IXuB1y0mTPa4CAangcmwOA",
     "handle": "konstantinidis-christos-kai-sia-oe-thessaloniki",
-    "name": "KONSTANTINIDIS CHRISTOS KAI SIA OE",
-    "address": "Θεσσαλονίκη",
+    "name": "ΚΩΝΣΤΑΝΤΙΝΙΔΗΣ ΧΡΙΣΤΟΣ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Γουζέλη Δημητρίου 2, Θεσσαλονίκη, 54248, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.63494,
-    "longitude": 22.92506,
+    "phone": "2310862064",
+    "latitude": 40.60412847,
+    "longitude": 22.95998791,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -113716,34 +114146,33 @@
   {
     "id": "CjJ_hkWKR1-AgNI4iL0QGA",
     "handle": "kosmadaki-parasyri-anna-i-irakleio",
-    "name": "KOSMADAKI PARASYRI ANNA I",
-    "address": "Ηράκλειο",
+    "name": "Κοσμαδάκη - Παρασύρη Άννα Ι.",
+    "address": "Λεωφόρος Καλοκαιρινού 124, Ηράκλειο, 71202, ΗΡΑΚΛΕΙΟΥ",
     "city": "Ηράκλειο",
     "municipality": "Ηράκλειο",
     "postalCode": "",
     "prefecture": "ΗΡΑΚΛΕΙΟΥ",
-    "phone": null,
-    "latitude": 35.33146,
-    "longitude": 25.1386,
+    "phone": "2810341726",
+    "latitude": 35.33815362,
+    "longitude": 25.12894285,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -118849,34 +119278,33 @@
   {
     "id": "2_rQbh5mRGeMNKu7lvZMOA",
     "handle": "koyri-konstantina-ch-kerkyra",
-    "name": "KOYRI KONSTANTINA CH",
-    "address": "Κέρκυρα",
+    "name": "Κουρή Κωνσταντίνα Χ.",
+    "address": "Κομπίτσι, Έναντι Εστιατορίου Γεφύρι, Κέρκυρα - Τρίκλινο, 49150, ΚΕΡΚΥΡΑΣ",
     "city": "Κέρκυρα",
     "municipality": "Κέρκυρα",
     "postalCode": "",
     "prefecture": "ΚΕΡΚΥΡΑΣ",
-    "phone": null,
-    "latitude": 39.62068,
-    "longitude": 19.9161,
+    "phone": "2661052781",
+    "latitude": 0,
+    "longitude": 0,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "22:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "22:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -121699,7 +122127,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -126626,34 +127065,33 @@
   {
     "id": "STYUa9h4Q_eX5cofgPdhGA",
     "handle": "lampropoyloy-christina-n-patra",
-    "name": "LAMPROPOYLOY CHRISTINA N",
-    "address": "Πάτρα",
+    "name": "Λαμπροπούλου Χριστίνα Ν.",
+    "address": "Ευβοίας 202, Πάτρα - Ζαρουχλέικα, 26332, ΑΧΑΪΑΣ",
     "city": "Πάτρα",
     "municipality": "Πάτρα",
     "postalCode": "",
     "prefecture": "ΑΧΑΪΑΣ",
-    "phone": null,
-    "latitude": 38.25022,
-    "longitude": 21.72668,
+    "phone": "2610321916",
+    "latitude": 38.2161845,
+    "longitude": 21.73516911,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -128431,7 +128869,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -129120,34 +129569,33 @@
   {
     "id": "hVpBOsLHTayvGjtnhQNRjg",
     "handle": "lempetzis-panagiotis-i-athina",
-    "name": "LEMPETZIS PANAGIOTIS I",
-    "address": "Αθήνα",
+    "name": "Λεμπετζής Παναγιώτης Ι.",
+    "address": "Πιπίνου 21, Αθήνα - Κυψέλη, 11257, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.98168,
-    "longitude": 23.7203,
+    "phone": "2108223932",
+    "latitude": 37.99658351,
+    "longitude": 23.73313569,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -132864,7 +133312,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -134989,34 +135453,33 @@
   {
     "id": "kNnAyMAiTzmEVXtaZawsSg",
     "handle": "magiati-sotiria-d-agia-varvara",
-    "name": "MAGIATI SOTIRIA D AGIA VARVARA",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "Μαγιάτη Σωτηρία Δ.",
+    "address": "Ηπείρου 25, Αγία Βαρβάρα, 12351, ΑΤΤΙΚΗΣ",
+    "city": "Αγία Βαρβάρα",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 37.99344,
-    "longitude": 23.69012,
+    "phone": "2105622779",
+    "latitude": 37.99286401,
+    "longitude": 23.65765368,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -141785,7 +142248,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "22:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "22:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -142547,34 +143021,33 @@
   {
     "id": "PvTwHJFJS1SLd1Sjekvhrw",
     "handle": "markaki-eythalia-d-irakleio",
-    "name": "MARKAKI EYTHALIA D",
-    "address": "Ηράκλειο",
+    "name": "Μαρκάκη Ευθαλία Δ.",
+    "address": "Καπετάν Μπαντουβά Μανώλη 88, Ηράκλειο, 71307, ΗΡΑΚΛΕΙΟΥ",
     "city": "Ηράκλειο",
     "municipality": "Ηράκλειο",
     "postalCode": "",
     "prefecture": "ΗΡΑΚΛΕΙΟΥ",
-    "phone": null,
-    "latitude": 35.3361,
-    "longitude": 25.15052,
+    "phone": "2810324220",
+    "latitude": 35.32938752,
+    "longitude": 25.14452113,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -144086,34 +144559,33 @@
   {
     "id": "t8ZSaEe_QraK08BV3x27XA",
     "handle": "mastorogiannaki-kalliopi-m-irakleio",
-    "name": "MASTOROGIANNAKI KALLIOPI M",
-    "address": "Ηράκλειο",
+    "name": "Μαστορογιαννάκη Καλλιόπη Μ.",
+    "address": "Ιλιάδος 18, Ηράκλειο, 71304, ΗΡΑΚΛΕΙΟΥ",
     "city": "Ηράκλειο",
     "municipality": "Ηράκλειο",
     "postalCode": "",
     "prefecture": "ΗΡΑΚΛΕΙΟΥ",
-    "phone": null,
-    "latitude": 35.3205,
-    "longitude": 25.1507,
+    "phone": "2810318773",
+    "latitude": 35.32925385,
+    "longitude": 25.1039339,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -144718,7 +145190,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -145532,7 +146015,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -152610,34 +153104,33 @@
   {
     "id": "VjAvAyqjQMKPCMkHx1ed9w",
     "handle": "mitsokalis-dionysios-i-larisa",
-    "name": "MITSOKALIS DIONYSIOS I",
-    "address": "Λάρισα",
+    "name": "Μητσοκάλης Διονύσιος Ι.",
+    "address": "Καραθάνου 48, Λάρισα, 41222, ΛΑΡΙΣΑΣ",
     "city": "Λάρισα",
     "municipality": "Λάρισα",
     "postalCode": "",
     "prefecture": "ΛΑΡΙΣΑΣ",
-    "phone": null,
-    "latitude": 39.6436,
-    "longitude": 22.42764,
+    "phone": "2410255157",
+    "latitude": 39.63618071,
+    "longitude": 22.40893284,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "23:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -158144,7 +158637,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -159579,34 +160083,33 @@
   {
     "id": "2xDPlnhLSfOuEck_UtgmPQ",
     "handle": "mpatagianni-athanasia-e-peiraias",
-    "name": "MPATAGIANNI ATHANASIA E",
-    "address": "Πειραιάς",
+    "name": "Μπαταγιάννη Αθανασία Ε.",
+    "address": "Αγίου Ελευθερίου 79, Πειραιάς - Καμίνια, 18541, ΑΤΤΙΚΗΣ",
     "city": "Πειραιάς",
     "municipality": "Πειραιάς",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.94638,
-    "longitude": 23.6514,
+    "phone": "2104823378",
+    "latitude": 37.95444814,
+    "longitude": 23.65969881,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -161240,7 +161743,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -163640,7 +164154,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -163909,7 +164434,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -164287,34 +164823,33 @@
   {
     "id": "nPjii_24QX-lmLwNy2sLsw",
     "handle": "mpoygioykas-georgios-agioi-theodoroi",
-    "name": "MPOYGIOYKAS GEORGIOS",
-    "address": "Άγιοι Θεόδωροι",
+    "name": "Μπουγιούκας Γεώργιος",
+    "address": "63ο χλμ Παλαιάς Εθνικής Οδού Αθηνών - Κορίνθου, Άγιοι Θεόδωροι, 20003, ΚΟΡΙΝΘΙΑΣ",
     "city": "Άγιοι Θεόδωροι",
     "municipality": "Άγιοι Θεόδωροι",
     "postalCode": "",
     "prefecture": "ΚΟΡΙΝΘΙΑΣ",
-    "phone": null,
-    "latitude": 37.99812,
-    "longitude": 23.69914,
+    "phone": "2741067766",
+    "latitude": 37.91768392,
+    "longitude": 23.10019148,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "22:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "22:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -164450,7 +164985,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -166874,34 +167420,33 @@
   {
     "id": "67cMtM8sR2-MdCm67TU84A",
     "handle": "mprozoy-eleytheria-ch-thessaloniki",
-    "name": "MPROZOY ELEYTHERIA CH",
-    "address": "Θεσσαλονίκη",
+    "name": "Μπρόζου Ελευθερία Χ.",
+    "address": "Παπαναστασίου Αλεξάνδρου 101, Θεσσαλονίκη, 54453, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.64966,
-    "longitude": 22.92742,
+    "phone": "2310506007",
+    "latitude": 40.60665501,
+    "longitude": 22.96747809,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -167908,7 +168453,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -168857,7 +169413,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -170185,34 +170752,33 @@
   {
     "id": "pWFRcswiQkmOhViI4DtJmA",
     "handle": "nikolaidis-pantelis-d-athina",
-    "name": "NIKOLAIDIS PANTELIS D",
-    "address": "Αθήνα",
+    "name": "Νικολαΐδης Παντελής Δ.",
+    "address": "Δημητρακοπούλου 50, Πλησίον Πεζόδρομου Δράκου, Αθήνα - Κουκάκι, 11742, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.98906,
-    "longitude": 23.72872,
+    "phone": "2109228300",
+    "latitude": 37.9651835,
+    "longitude": 23.72531445,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -170903,7 +171469,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -170941,7 +171518,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -171813,7 +172401,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -172351,7 +172950,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -173280,24 +173890,28 @@
     "latitude": 37.92481015,
     "longitude": 23.73548886,
     "isFrequentDuty": true,
-    "operatingHours": "08:30 – 14:30 · 17:00 – 20:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -177537,7 +178151,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -178729,34 +179354,49 @@
   {
     "id": "Lfvi7VjyTqGVPjCHocktAA",
     "handle": "panagaki-mariana-kalamata",
-    "name": "PANAGAKI MARIANA",
-    "address": "Καλαμάτα",
+    "name": "Παναγάκη Μαριάνα",
+    "address": "Σιδηροδρομικού Σταθμού 7, Καλαμάτα, 24133, ΜΕΣΣΗΝΙΑΣ",
     "city": "Καλαμάτα",
     "municipality": "Καλαμάτα",
     "postalCode": "",
     "prefecture": "ΜΕΣΣΗΝΙΑΣ",
-    "phone": null,
-    "latitude": 37.03024,
-    "longitude": 22.10598,
+    "phone": "2721027022",
+    "latitude": 37.03855451,
+    "longitude": 22.11028974,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:00 – 14:00 · 17:30 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:30:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       },
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -180472,34 +181112,33 @@
   {
     "id": "UvzGyVJTRNy7w52qqrvw8w",
     "handle": "panagiotoy-ntimitrova-krasimira-n-larisa",
-    "name": "PANAGIOTOY NTIMITROVA KRASIMIRA N",
-    "address": "Λάρισα",
+    "name": "Παναγιώτου - Ντιμήτροβα Κρασιμήρα Ν.",
+    "address": "Ελευθερίας 7Α & Παπαζαχαρίου, Λάρισα, 41334, ΛΑΡΙΣΑΣ",
     "city": "Λάρισα",
     "municipality": "Λάρισα",
     "postalCode": "",
     "prefecture": "ΛΑΡΙΣΑΣ",
-    "phone": null,
-    "latitude": 39.63238,
-    "longitude": 22.41806,
+    "phone": "2410617105",
+    "latitude": 39.6333204,
+    "longitude": 22.39944364,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -182768,34 +183407,33 @@
   {
     "id": "BT34S2v6QpeMDzuUko__vg",
     "handle": "papachristoy-anastasia-e-thessaloniki",
-    "name": "PAPACHRISTOY ANASTASIA E",
-    "address": "Θεσσαλονίκη",
+    "name": "Παπαχρήστου Αναστασία Ε.",
+    "address": "Βασιλίσσης Όλγας 113, Θεσσαλονίκη, 54640, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.63406,
-    "longitude": 22.94214,
+    "phone": "2310824536",
+    "latitude": 40.60653615,
+    "longitude": 22.95327229,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -183503,7 +184141,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "22:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "22:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -184489,34 +185138,38 @@
   {
     "id": "Y8pAqE93TPmB7xVlxGIcHw",
     "handle": "papadopoylos-polykarpos-k-maroysi",
-    "name": "PAPADOPOYLOS POLYKARPOS K",
-    "address": "Μαρούσι",
+    "name": "Παπαδόπουλος Πολύκαρπος Κ.",
+    "address": "Αγίας Ελεούσης 106, Μαρούσι, 15125, ΑΤΤΙΚΗΣ",
     "city": "Μαρούσι",
     "municipality": "Μαρούσι",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 38.0622,
-    "longitude": 23.81764,
+    "phone": "2106120330",
+    "latitude": 38.04809116,
+    "longitude": 23.81210264,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -184723,7 +185376,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -185535,7 +186199,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -186588,34 +187263,33 @@
   {
     "id": "IjUjj0u3QXGTZe1epJIN4A",
     "handle": "papageorgioy-eya-g-athina",
-    "name": "PAPAGEORGIOY EYA G",
-    "address": "Αθήνα",
+    "name": "Παπαγεωργίου Εύα Γ.",
+    "address": "Σόλωνος 17, Αθήνα - Κολωνάκι, 10671, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.9868,
-    "longitude": 23.7328,
+    "phone": "2111842960",
+    "latitude": 37.97816427,
+    "longitude": 23.73849707,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -186649,7 +187323,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -187609,34 +188294,33 @@
   {
     "id": "U02eRj8SRheUXcjL69QGXw",
     "handle": "papailioy-nikolaos-athina",
-    "name": "PAPAILIOY NIKOLAOS",
-    "address": "Αθήνα",
+    "name": "Παπαηλιού Νικόλαος",
+    "address": "Αγίας Ζώνης 72, Αθήνα - Κυψέλη, 11364, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.97516,
-    "longitude": 23.73158,
+    "phone": "2112170390",
+    "latitude": 38.00656985,
+    "longitude": 23.73811392,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -187748,7 +188432,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "02:00:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "02:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -190025,34 +190720,38 @@
   {
     "id": "cgJ8qZXMTJCG9stO5OcunA",
     "handle": "papanikolaoy-nikolaos-kai-sia-ee-peiraias",
-    "name": "PAPANIKOLAOY NIKOLAOS KAI SIA EE",
-    "address": "Πειραιάς",
+    "name": "ΠΑΠΑΝΙΚΟΛΑΟΥ ΝΙΚΟΛΑΟΣ ΚΑΙ ΣΙΑ ΕΕ",
+    "address": "Ακτή Ποσειδώνος 2, Είσοδος από Μακράς Στοάς - Εντός Πύργου, Πειραιάς, 18531, ΑΤΤΙΚΗΣ",
     "city": "Πειραιάς",
     "municipality": "Πειραιάς",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.9518,
-    "longitude": 23.65284,
+    "phone": "2104129421",
+    "latitude": 37.94515525,
+    "longitude": 23.64426311,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -191034,7 +191733,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "19:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -191915,34 +192625,33 @@
   {
     "id": "5pUgNFgOSpSWZb8ryzQYrQ",
     "handle": "papathanasioy-viky-kai-sia-ee-agioi-anargyroi",
-    "name": "PAPATHANASIOY VIKY KAI SIA EE",
-    "address": "Άγιοι Ανάργυροι",
+    "name": "ΠΑΠΑΘΑΝΑΣΙΟΥ ΒΙΚΥ ΚΑΙ ΣΙΑ ΕΕ",
+    "address": "Αγίας Παρασκευής 85, Άγιοι Ανάργυροι - Ανάκασα, 13562, ΑΤΤΙΚΗΣ",
     "city": "Άγιοι Ανάργυροι",
     "municipality": "Άγιοι Ανάργυροι",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 38.00576,
-    "longitude": 23.70864,
+    "phone": "2102629307",
+    "latitude": 38.03725425,
+    "longitude": 23.72743855,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -193132,7 +193841,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -193148,12 +193868,23 @@
     "latitude": 40.59870718,
     "longitude": 22.975002,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:00 – 21:00",
+    "status": "open",
+    "closesAt": "21:00:00",
     "dutyPeriods": [],
     "duties": {
-      "today": {},
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      },
       "tomorrow": {
         "is_on_duty": true,
         "closes_at": "21:00:00",
@@ -193904,7 +194635,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -196259,34 +197001,33 @@
   {
     "id": "Ug-5XFcLTVuM74p-U9uhVQ",
     "handle": "patrelis-georgios-d-arnaia",
-    "name": "PATRELIS GEORGIOS D",
-    "address": "Αρναία",
+    "name": "Πατρέλης Γεώργιος Δ.",
+    "address": "Αριστοτέλους 64, Αρναία, 63074, ΧΑΛΚΙΔΙΚΗΣ",
     "city": "Αρναία",
     "municipality": "Αρναία",
     "postalCode": "",
     "prefecture": "ΧΑΛΚΙΔΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.9967,
-    "longitude": 23.7016,
+    "phone": "2372022231",
+    "latitude": 40.48759345,
+    "longitude": 23.59618723,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -196968,25 +197709,24 @@
     "latitude": 40.60511582,
     "longitude": 22.96449809,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "21:00 – 23:59",
+    "status": "open",
+    "closesAt": "23:59:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       },
-      "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      }
+      "tomorrow": {}
     }
   },
   {
@@ -199273,7 +200013,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -201417,7 +202168,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -205352,7 +206114,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -205368,24 +206141,23 @@
     "latitude": 36.2264279,
     "longitude": 27.8573148,
     "isFrequentDuty": false,
-    "operatingHours": "08:30 – 08:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "08:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -208923,34 +209695,33 @@
   {
     "id": "iK0pcNFVT3ySH7N8efwZgw",
     "handle": "psilopoylos-ioannis-k-agnanta",
-    "name": "PSILOPOYLOS IOANNIS K",
-    "address": "Άγναντα",
+    "name": "Ψιλόπουλος Ιωάννης Κ.",
+    "address": "Άγναντα, Άγναντα, 47043, ΑΡΤΑΣ",
     "city": "Άγναντα",
     "municipality": "Άγναντα",
     "postalCode": "",
     "prefecture": "ΑΡΤΑΣ",
-    "phone": null,
-    "latitude": 37.99252,
-    "longitude": 23.69406,
+    "phone": "2685031244",
+    "latitude": 39.47389869,
+    "longitude": 21.07942272,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -211235,34 +212006,33 @@
   {
     "id": "y4eawxwsSFCpg8W8HiaK7Q",
     "handle": "reitzopoylos-konstantinos-e-kalamata",
-    "name": "REITZOPOYLOS KONSTANTINOS E",
-    "address": "Καλαμάτα",
+    "name": "Ρεϊτζόπουλος Κωνσταντίνος Ε.",
+    "address": "Αβία, Καλαμάτα - Παλαιοχώρα, 24150, ΜΕΣΣΗΝΙΑΣ",
     "city": "Καλαμάτα",
     "municipality": "Καλαμάτα",
     "postalCode": "",
     "prefecture": "ΜΕΣΣΗΝΙΑΣ",
-    "phone": null,
-    "latitude": 37.03346,
-    "longitude": 22.11512,
+    "phone": "2721058814",
+    "latitude": 36.9655005,
+    "longitude": 22.14188408,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -217699,7 +218469,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "13:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "13:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -217912,7 +218693,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -219126,7 +219918,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -222655,34 +223458,33 @@
   {
     "id": "PyP4AkFUR3uWysB2HrVkHA",
     "handle": "simopoyloy-zafeiro-kai-sia-oe-thessaloniki",
-    "name": "SIMOPOYLOY ZAFEIRO KAI SIA OE",
-    "address": "Θεσσαλονίκη",
+    "name": "ΣΙΜΟΠΟΥΛΟΥ ΖΑΦΕΙΡΩ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Λαμπράκη Γρηγορίου 160, Θεσσαλονίκη, 54352, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.65046,
-    "longitude": 22.9322,
+    "phone": "2311300030",
+    "latitude": 40.61401999,
+    "longitude": 22.97918604,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -222890,35 +223692,34 @@
   {
     "id": "21j7QX5uSkeuLliTr9kfaA",
     "handle": "siniori-alkisti-kai-sia-oe-kalamata",
-    "name": "SINIORI ALKISTI KAI SIA OE",
-    "address": "Καλαμάτα",
+    "name": "ΣΙΝΙΩΡΗ ΑΛΚΗΣΤΗ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Καλαμάτα, Διασταύρωση Ασπροχώματος - Μεσσήνης, Καλαμάτα, ΜΕΣΣΗΝΙΑΣ",
     "city": "Καλαμάτα",
     "municipality": "Καλαμάτα",
     "postalCode": "",
     "prefecture": "ΜΕΣΣΗΝΙΑΣ",
-    "phone": null,
-    "latitude": 37.03498,
-    "longitude": 22.12248,
+    "phone": "2721069775",
+    "latitude": 37.04277636,
+    "longitude": 22.11349985,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:00 – 21:00",
+    "status": "open",
+    "closesAt": "21:00:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       },
-      "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      }
+      "tomorrow": {}
     }
   },
   {
@@ -223086,7 +223887,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -225440,7 +226252,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -226478,7 +227301,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -229850,7 +230684,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -229995,7 +230840,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -230011,24 +230867,34 @@
     "latitude": 40.619244,
     "longitude": 22.96156,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:00 – 21:00",
+    "status": "open",
+    "closesAt": "21:00:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       },
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -232039,34 +232905,33 @@
   {
     "id": "xXxyFFUKQ7GkV4zg1k2XOQ",
     "handle": "staylioti-charikleia-n-amaliada",
-    "name": "STAYLIOTI CHARIKLEIA N",
-    "address": "Αμαλιάδα",
+    "name": "Σταυλιώτη Χαρίκλεια Ν.",
+    "address": "Καλαβρύτων 36, Αμαλιάδα, 27200, ΗΛΕΙΑΣ",
     "city": "Αμαλιάδα",
     "municipality": "Αμαλιάδα",
     "postalCode": "",
     "prefecture": "ΗΛΕΙΑΣ",
-    "phone": null,
-    "latitude": 37.99016,
-    "longitude": 23.70352,
+    "phone": "2622021141",
+    "latitude": 37.7959585,
+    "longitude": 21.35317834,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -232438,7 +233303,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -233761,34 +234637,33 @@
   {
     "id": "gD5We_xXTgqhab61Ct9-Ag",
     "handle": "stellaki-panagiota-p-athina",
-    "name": "STELLAKI PANAGIOTA P",
-    "address": "Αθήνα",
+    "name": "Στελλάκη Παναγιώτα Π.",
+    "address": "Πλατεία Μητροπόλεως 11, Αθήνα - Πλάκα, 10557, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.98736,
-    "longitude": 23.71884,
+    "phone": "2103254708",
+    "latitude": 37.97514991,
+    "longitude": 23.73267817,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -236866,34 +237741,33 @@
   {
     "id": "8aFoPPDMRaiY7S6oNK4r7Q",
     "handle": "systegasmena-farmakeia-aga-konstantina-agas-dimitrios-oe-larisa",
-    "name": "SYSTEGASMENA FARMAKEIA AGA KONSTANTINA AGAS DIMITRIOS OE",
-    "address": "Λάρισα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΑΓΑ  ΚΩΝΣΤΑΝΤΙΝΑ ΑΓΑΣ ΔΗΜΗΤΡΙΟΣ ΟΕ",
+    "address": "Σωκράτους 39, Λάρισα - Νέα Σμύρνη, 41336, ΛΑΡΙΣΑΣ",
     "city": "Λάρισα",
     "municipality": "Λάρισα",
     "postalCode": "",
     "prefecture": "ΛΑΡΙΣΑΣ",
-    "phone": null,
-    "latitude": 39.64504,
-    "longitude": 22.41324,
+    "phone": "2410282270",
+    "latitude": 39.65048205,
+    "longitude": 22.4330106,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -237914,7 +238788,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -238406,34 +239291,33 @@
   {
     "id": "frSyHff7TIma4YDMGnozdw",
     "handle": "systegasmena-farmakeia-antoniadis-georgios-leonidas-konstantinos-oe-argos",
-    "name": "SYSTEGASMENA FARMAKEIA ANTONIADIS GEORGIOS LEONIDAS KONSTANTINOS OE",
-    "address": "Άργος",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΑΝΤΩΝΙΑΔΗΣ ΓΕΩΡΓΙΟΣ ΛΕΩΝΙΔΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΟΕ",
+    "address": "Δαναού 4, Άργος, 21232, ΑΡΓΟΛΙΔΑΣ",
     "city": "Άργος",
     "municipality": "Άργος",
     "postalCode": "",
     "prefecture": "ΑΡΓΟΛΙΔΑΣ",
-    "phone": null,
-    "latitude": 38.00146,
-    "longitude": 23.70546,
+    "phone": "2751068487",
+    "latitude": 37.63408681,
+    "longitude": 22.72839112,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -238968,7 +239852,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -240165,7 +241060,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -241415,34 +242321,38 @@
   {
     "id": "jfc_ueArSO2qFn-EeCwO6w",
     "handle": "systegasmena-farmakeia-dimitra-gyftaki-anthi-nikolettoy-kai-sia-oe-peiraias",
-    "name": "SYSTEGASMENA FARMAKEIA DIMITRA GYFTAKI ANTHI NIKOLETTOY KAI SIA OE",
-    "address": "Πειραιάς",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΔΗΜΗΤΡΑ ΓΥΦΤΑΚΗ ΑΝΘΗ ΝΙΚΟΛΕΤΤΟΥ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Αιτωλικού 104Α & Καλλέργη, Πειραιάς - Αγία Σοφία, 18544, ΑΤΤΙΚΗΣ",
     "city": "Πειραιάς",
     "municipality": "Πειραιάς",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.95048,
-    "longitude": 23.63778,
+    "phone": "2104633786",
+    "latitude": 37.95666945,
+    "longitude": 23.63989341,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -241954,34 +242864,33 @@
   {
     "id": "sM2mjdKnRZGsjaXpDSK7EQ",
     "handle": "systegasmena-farmakeia-drosopoyloy-eleni-drosopoyloy-anastasia-oe-patra",
-    "name": "SYSTEGASMENA FARMAKEIA DROSOPOYLOY ELENI DROSOPOYLOY ANASTASIA OE",
-    "address": "Πάτρα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΔΡΟΣΟΠΟΥΛΟΥ ΕΛΕΝΗ ΔΡΟΣΟΠΟΥΛΟΥ ΑΝΑΣΤΑΣΙΑ ΟΕ",
+    "address": "Μαιζώνος 128Γ & Κανάρη, Πάτρα, 26222, ΑΧΑΪΑΣ",
     "city": "Πάτρα",
     "municipality": "Πάτρα",
     "postalCode": "",
     "prefecture": "ΑΧΑΪΑΣ",
-    "phone": null,
-    "latitude": 38.24714,
-    "longitude": 21.73204,
+    "phone": "2610333996",
+    "latitude": 38.24420481,
+    "longitude": 21.73172882,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -243122,34 +244031,33 @@
   {
     "id": "vRp0qHHjT3Ki-3B-cTp1pg",
     "handle": "systegasmena-farmakeia-eythymioy-pinelopi-eygenia-akriotis-sarantis-paylos-oe-eythymioy-pinelopi",
-    "name": "SYSTEGASMENA FARMAKEIA EYTHYMIOY PINELOPI EYGENIA AKRIOTIS SARANTIS PAYLOS OE EYTHYMIOY PINELOPI",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΕΥΘΥΜΙΟΥ ΠΗΝΕΛΟΠΗ - ΕΥΓΕΝΙΑ ΑΚΡΙΩΤΗΣ ΣΑΡΑΝΤΗΣ - ΠΑΥΛΟΣ ΟΕ (Ευθυμίου Πηνελόπη Δ.)",
+    "address": "Τερψιθέας 57 & Ορφανίδου, Πάτρα - Αγυιά, 26442, ΑΧΑΪΑΣ",
+    "city": "Πάτρα",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 37.9953,
-    "longitude": 23.6955,
+    "phone": "2610430880",
+    "latitude": 38.26659076,
+    "longitude": 21.74357035,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -243697,7 +244605,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -245732,34 +246651,33 @@
   {
     "id": "UB2vzV62Q-uORJTEuLODNw",
     "handle": "systegasmena-farmakeia-ioakeim-katsimiris-dimitrios-katsimiris-oe-edessa",
-    "name": "SYSTEGASMENA FARMAKEIA IOAKEIM KATSIMIRIS DIMITRIOS KATSIMIRIS OE",
-    "address": "Έδεσσα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΙΩΑΚΕΙΜ ΚΑΤΣΙΜΗΡΗΣ ΔΗΜΗΤΡΙΟΣ ΚΑΤΣΙΜΗΡΗΣ ΟΕ",
+    "address": "Μοναστηρίου 27, Έδεσσα, 58200, ΠΕΛΛΑΣ",
     "city": "Έδεσσα",
     "municipality": "Έδεσσα",
     "postalCode": "",
     "prefecture": "ΠΕΛΛΑΣ",
-    "phone": null,
-    "latitude": 38.0022,
-    "longitude": 23.70248,
+    "phone": "2381025510",
+    "latitude": 40.80095532,
+    "longitude": 22.0475111,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -247526,34 +248444,33 @@
   {
     "id": "4MVECWlrRYyAciZeGWVAOg",
     "handle": "systegasmena-farmakeia-katsiva-maria-garatzioti-vasiliki-o-e-kalamata",
-    "name": "SYSTEGASMENA FARMAKEIA KATSIVA MARIA GARATZIOTI VASILIKI O E",
-    "address": "Καλαμάτα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΚΑΤΣΙΒΑ ΜΑΡΙΑ - ΓΑΡΑΤΖΙΩΤΗ ΒΑΣΙΛΙΚΗ Ο.Ε.",
+    "address": "Φαρών 155, Καλαμάτα, 24100, ΜΕΣΣΗΝΙΑΣ",
     "city": "Καλαμάτα",
     "municipality": "Καλαμάτα",
     "postalCode": "",
     "prefecture": "ΜΕΣΣΗΝΙΑΣ",
-    "phone": null,
-    "latitude": 37.03358,
-    "longitude": 22.11784,
+    "phone": "2721082666",
+    "latitude": 37.03243946,
+    "longitude": 22.11342044,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -247829,34 +248746,33 @@
   {
     "id": "OjOo5fSOR9WjVSx4y3R-xg",
     "handle": "systegasmena-farmakeia-kokkinoy-kyriaki-spiliopoylos-georgios-oe-aigio",
-    "name": "SYSTEGASMENA FARMAKEIA KOKKINOY KYRIAKI SPILIOPOYLOS GEORGIOS OE",
-    "address": "Αίγιο",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΚΟΚΚΙΝΟΥ ΚΥΡΙΑΚΗ ΣΠΗΛΙΟΠΟΥΛΟΣ ΓΕΩΡΓΙΟΣ ΟΕ",
+    "address": "Ανδρονοπούλου 17, Αίγιο, 25100, ΑΧΑΪΑΣ",
     "city": "Αίγιο",
     "municipality": "Αίγιο",
     "postalCode": "",
     "prefecture": "ΑΧΑΪΑΣ",
-    "phone": null,
-    "latitude": 38.00118,
-    "longitude": 23.69258,
+    "phone": "2691021609",
+    "latitude": 38.25022469,
+    "longitude": 22.08670279,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "22:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "22:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -248169,7 +249085,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -248714,7 +249641,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -248996,34 +249934,33 @@
   {
     "id": "41fz4408SnmCvlpdxGv3VA",
     "handle": "systegasmena-farmakeia-koyri-marina-trivyzas-nikolaos-oe-kerkyra",
-    "name": "SYSTEGASMENA FARMAKEIA KOYRI MARINA TRIVYZAS NIKOLAOS OE",
-    "address": "Κέρκυρα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΚΟΥΡΗ ΜΑΡΙΝΑ ΤΡΙΒΥΖΑΣ ΝΙΚΟΛΑΟΣ ΟΕ",
+    "address": "Βουλγάρεως Ευγενίου 73 & Παλαιολόγου Κωνσταντίνου 102, Κέρκυρα, 49131, ΚΕΡΚΥΡΑΣ",
     "city": "Κέρκυρα",
     "municipality": "Κέρκυρα",
     "postalCode": "",
     "prefecture": "ΚΕΡΚΥΡΑΣ",
-    "phone": null,
-    "latitude": 39.61506,
-    "longitude": 19.91956,
+    "phone": "2661030100",
+    "latitude": 39.62349608,
+    "longitude": 19.92110038,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -250395,7 +251332,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -250511,7 +251459,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -250791,34 +251750,33 @@
   {
     "id": "Q-lMinuXS-WRPBxRCkJOiQ",
     "handle": "systegasmena-farmakeia-makrygiannis-ioannis-kai-makrygiannis-georgios-oe-larisa",
-    "name": "SYSTEGASMENA FARMAKEIA MAKRYGIANNIS IOANNIS KAI MAKRYGIANNIS GEORGIOS OE",
-    "address": "Λάρισα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΜΑΚΡΥΓΙΑΝΝΗΣ ΙΩΑΝΝΗΣ ΚΑΙ ΜΑΚΡΥΓΙΑΝΝΗΣ ΓΕΩΡΓΙΟΣ ΟΕ",
+    "address": "Δευκαλίωνος 9, Λάρισα, 41222, ΛΑΡΙΣΑΣ",
     "city": "Λάρισα",
     "municipality": "Λάρισα",
     "postalCode": "",
     "prefecture": "ΛΑΡΙΣΑΣ",
-    "phone": null,
-    "latitude": 39.64108,
-    "longitude": 22.4096,
+    "phone": "2410536559",
+    "latitude": 39.63646194,
+    "longitude": 22.41632583,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -251565,34 +252523,33 @@
   {
     "id": "ob20K8HoT-mqosdASwTD4w",
     "handle": "systegasmena-farmakeia-markoy-anna-theoni-kai-markoy-christiana-oe-varda",
-    "name": "SYSTEGASMENA FARMAKEIA MARKOY ANNA THEONI KAI MARKOY CHRISTIANA OE VARDA",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΜΑΡΚΟΥ ΑΝΝΑ ΘΕΩΝΗ ΚΑΙ ΜΑΡΚΟΥ  ΧΡΙΣΤΙΑΝΑ ΟΕ",
+    "address": "Πατρών - Πύργου 99, Βάρδα, 27052, ΗΛΕΙΑΣ",
+    "city": "Βάρδα",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 38.00668,
-    "longitude": 23.70402,
+    "phone": "2623071988",
+    "latitude": 38.03830114,
+    "longitude": 21.36973194,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -253800,7 +254757,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -253867,7 +254835,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -254183,34 +255162,38 @@
   {
     "id": "gPTM-dyCTsGIWnTEsViGpg",
     "handle": "systegasmena-farmakeia-nikitas-e-mprachantinis-malvina-z-oyer-oe-ioannina",
-    "name": "SYSTEGASMENA FARMAKEIA NIKITAS E MPRACHANTINIS MALVINA Z OYER OE",
-    "address": "Ιωάννινα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΝΙΚΗΤΑΣ Ε ΜΠΡΑΧΑΝΤΙΝΗΣ ΜΑΛΒΙΝΑ Ζ ΟΥΕΡ ΟΕ",
+    "address": "Γ Σεπτεμβρίου 23Α, Ανατολή, 45222, ΙΩΑΝΝΙΝΩΝ",
     "city": "Ιωάννινα",
     "municipality": "Ιωάννινα",
     "postalCode": "",
     "prefecture": "ΙΩΑΝΝΙΝΩΝ",
-    "phone": null,
-    "latitude": 39.65664,
-    "longitude": 20.84498,
+    "phone": "2651042722",
+    "latitude": 39.63932144,
+    "longitude": 20.86864662,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:30:00",
+            "date": null
+          },
+          {
+            "opens_at": "18:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -254874,34 +255857,33 @@
   {
     "id": "nQbirQOeQsmhnWBHVpJLzw",
     "handle": "systegasmena-farmakeia-nikos-papadopoylos-kai-aggeliki-diploy-oe-asprovalta",
-    "name": "SYSTEGASMENA FARMAKEIA NIKOS PAPADOPOYLOS KAI AGGELIKI DIPLOY OE ASPROVALTA",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΝΙΚΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ ΚΑΙ ΑΓΓΕΛΙΚΗ ΔΙΠΛΟΥ ΟΕ",
+    "address": "Εγνατίας 28 & Μεγάλου Αλεξάνδρου 14, Ασπροβάλτα, 57021, ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "city": "Ασπροβάλτα",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 38.00746,
-    "longitude": 23.69186,
+    "phone": "2397022515",
+    "latitude": 40.71917115,
+    "longitude": 23.70594664,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -255581,7 +256563,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -256562,34 +257555,33 @@
   {
     "id": "BX5_IIueQDW8d4JouAR5NQ",
     "handle": "systegasmena-farmakeia-papadopoylos-alexandros-zerdeli-eya-oe-patra",
-    "name": "SYSTEGASMENA FARMAKEIA PAPADOPOYLOS ALEXANDROS ZERDELI EYA OE",
-    "address": "Πάτρα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΠΑΠΑΔΟΠΟΥΛΟΣ ΑΛΕΞΑΝΔΡΟΣ ΖΕΡΔΕΛΗ ΕΥΑ ΟΕ",
+    "address": "Κανακάρη 118 & Ερμού, Πάτρα, 26221, ΑΧΑΪΑΣ",
     "city": "Πάτρα",
     "municipality": "Πάτρα",
     "postalCode": "",
     "prefecture": "ΑΧΑΪΑΣ",
-    "phone": null,
-    "latitude": 38.2367,
-    "longitude": 21.73648,
+    "phone": "2610271557",
+    "latitude": 38.24611194,
+    "longitude": 21.73669697,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -257214,34 +258206,33 @@
   {
     "id": "qm1a8spCRDWtA6fC6cne0g",
     "handle": "systegasmena-farmakeia-papavasileioy-vlachoy-ioanna-papavasileioy-florentia-oe-papavasileioy",
-    "name": "SYSTEGASMENA FARMAKEIA PAPAVASILEIOY VLACHOY IOANNA PAPAVASILEIOY FLORENTIA OE PAPAVASILEIOY",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΠΑΠΑΒΑΣΙΛΕΙΟΥ ΒΛΑΧΟΥ ΙΩΑΝΝΑ ΠΑΠΑΒΑΣΙΛΕΙΟΥ ΦΛΩΡΕΝΤΙΑ ΟΕ (Παπαβασιλείου Φλωρεντία )",
+    "address": "Καβάφη 6, Αθήνα - Άγιος Ελευθέριος, 11143, ΑΤΤΙΚΗΣ",
+    "city": "Αθήνα",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 38.0029,
-    "longitude": 23.69034,
+    "phone": "2102282790",
+    "latitude": 38.01817946,
+    "longitude": 23.72973076,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -257425,34 +258416,33 @@
   {
     "id": "9z2SKJN-QOyWELVz5YWUYg",
     "handle": "systegasmena-farmakeia-pappoy-i-georgia-tsotakis-e-panagiotis-oe-ano-liosia",
-    "name": "SYSTEGASMENA FARMAKEIA PAPPOY I GEORGIA TSOTAKIS E PANAGIOTIS OE",
-    "address": "Άνω Λιόσια",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΠΑΠΠΟΥ Ι ΓΕΩΡΓΙΑ ΤΣΟΤΑΚΗΣ Ε ΠΑΝΑΓΙΩΤΗΣ ΟΕ",
+    "address": "Λεωφόρος Φυλής 157, Άνω Λιόσια, 13342, ΑΤΤΙΚΗΣ",
     "city": "Άνω Λιόσια",
     "municipality": "Άνω Λιόσια",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.99958,
-    "longitude": 23.70416,
+    "phone": "2102474995",
+    "latitude": 38.07888904,
+    "longitude": 23.69987368,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -259003,34 +259993,38 @@
   {
     "id": "qooYCu7kRX-5pMciyTZClQ",
     "handle": "systegasmena-farmakeia-raptis-novikova-oe-ampelakia",
-    "name": "SYSTEGASMENA FARMAKEIA RAPTIS NOVIKOVA OE",
-    "address": "Αμπελάκια",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΡΑΠΤΗΣ ΝΟΒΙΚΟΒΑ ΟΕ",
+    "address": "Βενιζέλου Ελευθερίου 63, Αμπελάκια, 18950, ΑΤΤΙΚΗΣ",
     "city": "Αμπελάκια",
     "municipality": "Αμπελάκια",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 38.00012,
-    "longitude": 23.69078,
+    "phone": "2104674013",
+    "latitude": 37.95133477,
+    "longitude": 23.52800945,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -260348,24 +261342,23 @@
     "latitude": 37.94476921,
     "longitude": 23.65078642,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 14:00 · 17:00 – 23:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -264892,24 +265885,23 @@
     "latitude": 37.79798345,
     "longitude": 21.35066457,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 21:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "17:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -264984,34 +265976,33 @@
   {
     "id": "SAJGJwJ_TrKirdSQiMCeTQ",
     "handle": "systegasmena-farmakeia-xenakis-georgios-xenakis-panagiotis-vasilis-oe-irakleio",
-    "name": "SYSTEGASMENA FARMAKEIA XENAKIS GEORGIOS XENAKIS PANAGIOTIS VASILIS OE",
-    "address": "Ηράκλειο",
+    "name": "ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΞΕΝΑΚΗΣ ΓΕΩΡΓΙΟΣ ΞΕΝΑΚΗΣ ΠΑΝΑΓΙΩΤΗΣ ΒΑΣΙΛΗΣ ΟΕ",
+    "address": "Βύρωνος 1, Ηράκλειο, 71202, ΗΡΑΚΛΕΙΟΥ",
     "city": "Ηράκλειο",
     "municipality": "Ηράκλειο",
     "postalCode": "",
     "prefecture": "ΗΡΑΚΛΕΙΟΥ",
-    "phone": null,
-    "latitude": 35.32256,
-    "longitude": 25.13582,
+    "phone": "2810224608",
+    "latitude": 35.34148255,
+    "longitude": 25.13355577,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -266121,7 +267112,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -267643,7 +268645,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -268374,7 +269387,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "08:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -268523,24 +269547,23 @@
     "latitude": 40.59937602,
     "longitude": 22.97049751,
     "isFrequentDuty": true,
-    "operatingHours": "00:00 – 08:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -271145,7 +272168,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -271183,7 +272217,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -274105,7 +275150,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -276895,25 +277951,24 @@
     "latitude": 40.60393461,
     "longitude": 22.96649166,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:30 – 14:30",
+    "status": "open",
+    "closesAt": "14:30:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       },
-      "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      }
+      "tomorrow": {}
     }
   },
   {
@@ -278098,34 +279153,33 @@
   {
     "id": "8jhhRo05R_ec6c7nHDt8gQ",
     "handle": "tsaoysis-antonios-g-larisa",
-    "name": "TSAOYSIS ANTONIOS G",
-    "address": "Λάρισα",
+    "name": "Τσαούσης Αντώνιος Γ.",
+    "address": "Ηρώων Πολυτεχνείου & 28ης Οκτωβρίου, Λάρισα, 41223, ΛΑΡΙΣΑΣ",
     "city": "Λάρισα",
     "municipality": "Λάρισα",
     "postalCode": "",
     "prefecture": "ΛΑΡΙΣΑΣ",
-    "phone": null,
-    "latitude": 39.64828,
-    "longitude": 22.4148,
+    "phone": "2410553862",
+    "latitude": 39.63160592,
+    "longitude": 22.42229745,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -278261,7 +279315,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -279987,34 +281052,33 @@
   {
     "id": "jmPhFmkJTD6bBcGQl1GCQQ",
     "handle": "tsiagas-konstantinos-i-aigio",
-    "name": "TSIAGAS KONSTANTINOS I",
-    "address": "Αίγιο",
+    "name": "Τσιαγάς Κωνσταντίνος Ι.",
+    "address": "Κλεομένη Οικονόμου 50, Αίγιο, 25100, ΑΧΑΪΑΣ",
     "city": "Αίγιο",
     "municipality": "Αίγιο",
     "postalCode": "",
     "prefecture": "ΑΧΑΪΑΣ",
-    "phone": null,
-    "latitude": 37.99668,
-    "longitude": 23.70808,
+    "phone": "2691026966",
+    "latitude": 38.24856647,
+    "longitude": 22.08890598,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "22:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -280528,34 +281592,33 @@
   {
     "id": "WDi87YoaSvOAp9SRk9GdUQ",
     "handle": "tsiatsioy-aygi-s-athina",
-    "name": "TSIATSIOY AYGI S",
-    "address": "Αθήνα",
+    "name": "Τσιάτσιου Αυγή Σ.",
+    "address": "Καρτερίας 26, Αθήνα - Άνω Κυψέλη, 11364, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.9743,
-    "longitude": 23.73422,
+    "phone": "2108623539",
+    "latitude": 38.00770719,
+    "longitude": 23.74618361,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -282408,34 +283471,33 @@
   {
     "id": "DJPGHgzzR6CGaKdTQRSWpA",
     "handle": "tsiotra-ee-thessaloniki",
-    "name": "TSIOTRA EE",
-    "address": "Θεσσαλονίκη",
+    "name": "ΤΣΙΟΤΡΑ ΕΕ",
+    "address": "Βασιλίσσης Όλγας 57, Θεσσαλονίκη, 54641, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.63536,
-    "longitude": 22.93568,
+    "phone": "2310818724",
+    "latitude": 40.61225512,
+    "longitude": 22.95410508,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -283187,68 +284249,66 @@
   {
     "id": "kuWiRZeFQ4K48MSaD35FIA",
     "handle": "tsirogianni-kalliopi-v-thessaloniki",
-    "name": "TSIROGIANNI KALLIOPI V",
-    "address": "Θεσσαλονίκη",
+    "name": "Τσιρογιάννη Καλλιόπη Β.",
+    "address": "Ροστάν Εδμόνδου 11, Θεσσαλονίκη - Φάληρο, 54641, ΘΕΣΣΑΛΟΝΙΚΗΣ",
     "city": "Θεσσαλονίκη",
     "municipality": "Θεσσαλονίκη",
     "postalCode": "",
     "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
-    "phone": null,
-    "latitude": 40.63792,
-    "longitude": 22.9316,
+    "phone": "2310824910",
+    "latitude": 40.61521943,
+    "longitude": 22.95615127,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
   {
     "id": "Nn-_kH18SY-hJdP6bwsYdA",
     "handle": "tsirogianni-kalliopi-v-thessaloniki-faliro",
-    "name": "TSIROGIANNI KALLIOPI V THESSALONIKI FALIRO",
-    "address": "Ελλάδα",
-    "city": "Ελλάδα",
+    "name": "Τσιρογιάννη Καλλιόπη Β.",
+    "address": "Ροστάν Εδμόνδου 11, Θεσσαλονίκη - Φάληρο, 54641, ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "city": "Θεσσαλονίκη - Φάληρο",
     "municipality": "Ελλάδα",
     "postalCode": "",
     "prefecture": "ΕΛΛΑΔΑ",
-    "phone": null,
-    "latitude": 37.9995,
-    "longitude": 23.70318,
+    "phone": "2310824910",
+    "latitude": 40.61516912,
+    "longitude": 22.9561237,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -283288,34 +284348,33 @@
   {
     "id": "M8jpM5TRStS70P7PWq78RQ",
     "handle": "tsiromali-afroditi-kai-sia-oe-aigaleo",
-    "name": "TSIROMALI AFRODITI KAI SIA OE",
-    "address": "Αιγάλεω",
+    "name": "ΤΣΙΡΟΜΑΛΗ ΑΦΡΟΔΙΤΗ ΚΑΙ ΣΙΑ ΟΕ",
+    "address": "Αναγεννήσεως 26, Αιγάλεω, 12243, ΑΤΤΙΚΗΣ",
     "city": "Αιγάλεω",
     "municipality": "Αιγάλεω",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.99516,
-    "longitude": 23.67122,
+    "phone": "2105989485",
+    "latitude": 38.00056376,
+    "longitude": 23.68109237,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -287599,34 +288658,38 @@
   {
     "id": "iZFst0IISs-Jb6_10jyfWA",
     "handle": "tzikoyla-christina-n-athina",
-    "name": "TZIKOYLA CHRISTINA N",
-    "address": "Αθήνα",
+    "name": "Τζικούλα Χριστίνα Ν.",
+    "address": "Σεβαστείας 20 & Παπαδιαμαντοπούλου 40, Αθήνα - Ιλίσια, 11528, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.97588,
-    "longitude": 23.73528,
+    "phone": "2107752783",
+    "latitude": 37.97962898,
+    "longitude": 23.75748479,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -287660,7 +288723,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": null
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -288412,7 +289491,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -292058,7 +293148,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -295049,7 +296150,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -295559,7 +296671,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -299030,25 +300153,24 @@
     "latitude": 0,
     "longitude": 0,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "21:00 – 23:59",
+    "status": "open",
+    "closesAt": "23:59:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       },
-      "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      }
+      "tomorrow": {}
     }
   },
   {
@@ -301225,7 +302347,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -302386,25 +303519,24 @@
     "latitude": 40.6093814,
     "longitude": 22.9652023,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:30 – 14:30",
+    "status": "open",
+    "closesAt": "14:30:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:30:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       },
-      "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      }
+      "tomorrow": {}
     }
   },
   {
@@ -303899,34 +305031,33 @@
   {
     "id": "yEPZfjiyTtCjShCkd5KdWQ",
     "handle": "zarkinoy-fani-v-larisa",
-    "name": "ZARKINOY FANI V",
-    "address": "Λάρισα",
+    "name": "Ζαρκίνου Φανή Β.",
+    "address": "Καραθάνου 59-61, Λάρισα, 41222, ΛΑΡΙΣΑΣ",
     "city": "Λάρισα",
     "municipality": "Λάρισα",
     "postalCode": "",
     "prefecture": "ΛΑΡΙΣΑΣ",
-    "phone": null,
-    "latitude": 39.6399,
-    "longitude": 22.42402,
+    "phone": "2410535062",
+    "latitude": 39.63767798,
+    "longitude": 22.40839745,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -306287,7 +307418,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "13:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "13:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -307941,7 +309083,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -308244,7 +309397,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -313150,8 +314314,8 @@
     "postalCode": "",
     "prefecture": "",
     "phone": "2102522096",
-    "latitude": 0,
-    "longitude": 0,
+    "latitude": 38.0244815,
+    "longitude": 23.73335091,
     "isFrequentDuty": false,
     "operatingHours": "08:30 – 14:30",
     "status": "open",
@@ -313360,6 +314524,134 @@
     "phone": "2310798008",
     "latitude": 0,
     "longitude": 0,
+    "isFrequentDuty": false,
+    "operatingHours": "—",
+    "status": "scheduled",
+    "closesAt": null,
+    "duties": {
+      "today": {},
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
+    }
+  },
+  {
+    "id": "sJ_CCFAIQTmN78LKva-qJQ",
+    "handle": "eGsXxmDofKtID1_XtSOfdg",
+    "name": "ΑΘΑΝΑΣΙΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ΚΑΙ ΣΙΑ ΕΕ (Παπαδοπούλου - Σκλήρη Αθανασία Μ.)",
+    "address": "Αστυδάμαντος 10, Αθήνα - Παγκράτι, 11634, ΑΤΤΙΚΗΣ",
+    "city": "Αθήνα",
+    "municipality": "Αθήνα",
+    "postalCode": "",
+    "prefecture": "",
+    "phone": "2107246620",
+    "latitude": 37.96824243,
+    "longitude": 23.7487028,
+    "isFrequentDuty": false,
+    "operatingHours": "—",
+    "status": "scheduled",
+    "closesAt": null,
+    "duties": {
+      "today": {},
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
+    }
+  },
+  {
+    "id": "143JS6YIT6GjGysIczIvVA",
+    "handle": "EGgHrIuxhuB9V0oavH5QVw",
+    "name": "Πολίτου Παναγιώτα Β.",
+    "address": "Χαλκίδος 23, Πλησίον Γενικού Νοσοκομείου Πατησίων, Αθήνα - Άνω Πατήσια, 11143, ΑΤΤΙΚΗΣ",
+    "city": "Αθήνα",
+    "municipality": "Αθήνα",
+    "postalCode": "",
+    "prefecture": "",
+    "phone": "2102522096",
+    "latitude": 38.0244815,
+    "longitude": 23.73335091,
+    "isFrequentDuty": false,
+    "operatingHours": "—",
+    "status": "scheduled",
+    "closesAt": null,
+    "duties": {
+      "today": {},
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
+    }
+  },
+  {
+    "id": "Ea--iSs6Rx6yPUbTzK_7eA",
+    "handle": "mGln8lULY_ku9o2dSt03oA",
+    "name": "Κουλούρη Αικατερίνη Δ.",
+    "address": "Πανόρμου 1, Άγιος Παύλος, 55437, ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "city": "Άγιος Παύλος",
+    "municipality": "Άγιος Παύλος",
+    "postalCode": "",
+    "prefecture": "",
+    "phone": "2310204270",
+    "latitude": 40.63438,
+    "longitude": 22.959256,
+    "isFrequentDuty": false,
+    "operatingHours": "—",
+    "status": "scheduled",
+    "closesAt": null,
+    "duties": {
+      "today": {},
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:59:00",
+        "periods": [
+          {
+            "opens_at": "21:00:00",
+            "closes_at": "23:59:00",
+            "date": null
+          }
+        ],
+        "observed_at": null
+      }
+    }
+  },
+  {
+    "id": "fmIxf6nhSBm9QYd2Rg3TLA",
+    "handle": "TvAtopY52Z3nDEbmIXLrpg",
+    "name": "Ηλιόπουλος Επαμεινώνδας Ν.",
+    "address": "Αργολίδος 13, Αθήνα - Αμπελόκηποι, 11523, ΑΤΤΙΚΗΣ",
+    "city": "Αθήνα - Αμπελόκηποι",
+    "municipality": "Αθήνα - Αμπελόκηποι",
+    "postalCode": "",
+    "prefecture": "",
+    "phone": "2106928218",
+    "latitude": 37.98914129,
+    "longitude": 23.76275928,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
