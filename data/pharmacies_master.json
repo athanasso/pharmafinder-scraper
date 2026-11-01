@@ -6198,25 +6198,24 @@
     "latitude": 36.61286365,
     "longitude": 27.83797622,
     "isFrequentDuty": false,
-    "operatingHours": "08:30 – 08:30",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "00:00 – 08:30",
+    "status": "open",
+    "closesAt": "08:30:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:30:00",
+            "date": "2026-11-01"
+          }
+        ],
+        "observed_at": null
       },
-      "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      }
+      "tomorrow": {}
     }
   },
   {
@@ -12078,25 +12077,24 @@
     "latitude": 37.92189315,
     "longitude": 23.72125439,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 14:00 · 17:00 – 08:00",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "00:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-01"
+          }
+        ],
+        "observed_at": null
       },
-      "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      }
+      "tomorrow": {}
     }
   },
   {
@@ -22846,24 +22844,28 @@
     "latitude": 39.55393336,
     "longitude": 21.76830274,
     "isFrequentDuty": false,
-    "operatingHours": "11:00 – 12:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-02"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -64666,12 +64668,23 @@
     "latitude": 39.71747405,
     "longitude": 22.39581988,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "00:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [],
     "duties": {
-      "today": {},
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-01"
+          }
+        ],
+        "observed_at": null
+      },
       "tomorrow": {
         "is_on_duty": true,
         "closes_at": "08:00:00",
@@ -92893,19 +92906,18 @@
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -100451,7 +100463,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -101589,34 +101612,33 @@
   {
     "id": "lyJA672RRES0rnBPdIoCzg",
     "handle": "katsoyla-spyridoyla-i-arta",
-    "name": "KATSOYLA SPYRIDOYLA I",
-    "address": "Άρτα",
+    "name": "Κατσούλα Σπυριδούλα Ι.",
+    "address": "Φιλοθέη Άρτας, Φιλοθέη Άρτας, 47150, ΑΡΤΑΣ",
     "city": "Άρτα",
     "municipality": "Άρτα",
     "postalCode": "",
     "prefecture": "ΑΡΤΑΣ",
-    "phone": null,
-    "latitude": 37.9997,
-    "longitude": 23.69684,
+    "phone": "2681052004",
+    "latitude": 39.15408944,
+    "longitude": 20.89675537,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -128913,24 +128935,23 @@
     "latitude": 39.56112357,
     "longitude": 21.7547919,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -132842,7 +132863,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -155646,7 +155678,7 @@
     "latitude": 39.55572465,
     "longitude": 21.76634828,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 14:00 · 17:00 – 08:00",
+    "operatingHours": "17:00 – 08:00",
     "status": "open",
     "closesAt": "08:00:00",
     "dutyPeriods": [],
@@ -155656,11 +155688,6 @@
         "closes_at": "08:00:00",
         "periods": [
           {
-            "opens_at": "08:00:00",
-            "closes_at": "14:00:00",
-            "date": "2026-11-01"
-          },
-          {
             "opens_at": "17:00:00",
             "closes_at": "08:00:00",
             "date": "2026-11-01"
@@ -155668,7 +155695,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -174709,24 +174747,23 @@
     "latitude": 38.95428754,
     "longitude": 20.7485296,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 08:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -225189,24 +225226,23 @@
     "latitude": 39.15811929,
     "longitude": 20.98185265,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 08:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -280972,12 +281008,23 @@
     "latitude": 36.61286365,
     "longitude": 27.83797622,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "08:30 – 08:30",
+    "status": "open",
+    "closesAt": "08:30:00",
     "dutyPeriods": [],
     "duties": {
-      "today": {},
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "08:30:00",
+            "date": "2026-11-01"
+          }
+        ],
+        "observed_at": null
+      },
       "tomorrow": {
         "is_on_duty": true,
         "closes_at": "08:30:00",
@@ -285675,12 +285722,23 @@
     "latitude": 37.93848927,
     "longitude": 23.73040976,
     "isFrequentDuty": false,
-    "operatingHours": "—",
-    "status": "scheduled",
-    "closesAt": null,
+    "operatingHours": "17:00 – 08:00",
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [],
     "duties": {
-      "today": {},
+      "today": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-01"
+          }
+        ],
+        "observed_at": null
+      },
       "tomorrow": {
         "is_on_duty": true,
         "closes_at": "08:00:00",
@@ -291674,7 +291732,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-02"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
