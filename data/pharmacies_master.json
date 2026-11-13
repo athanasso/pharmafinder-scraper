@@ -640,24 +640,23 @@
     "latitude": 37.9680284,
     "longitude": 23.74441068,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -1637,7 +1636,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -1737,7 +1747,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -1820,24 +1841,23 @@
     "latitude": 38.00318015,
     "longitude": 23.74112741,
     "isFrequentDuty": true,
-    "operatingHours": "17:30 – 20:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -2352,7 +2372,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -2706,7 +2737,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -2866,7 +2908,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -4074,7 +4127,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -4325,7 +4394,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -5859,7 +5939,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -5892,7 +5983,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -6259,24 +6361,23 @@
     "latitude": 38.00744,
     "longitude": 23.736043,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 20:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -6492,24 +6593,23 @@
     "latitude": 38.00244474,
     "longitude": 23.73843365,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -7525,7 +7625,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -7558,7 +7669,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -7701,7 +7823,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:15:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:15:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -8126,7 +8259,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -8237,7 +8381,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -8979,7 +9134,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -9045,7 +9211,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -10402,7 +10579,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -11436,7 +11624,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -12263,7 +12462,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -13032,7 +13242,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -13222,7 +13443,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -13834,24 +14066,23 @@
     "latitude": 37.991796,
     "longitude": 23.745016,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 20:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -15039,7 +15270,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -15429,24 +15671,23 @@
     "latitude": 38.01920899,
     "longitude": 23.74437977,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -15718,7 +15959,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -15954,7 +16206,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -16702,7 +16965,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -17226,7 +17500,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -18056,24 +18341,23 @@
     "latitude": 38.07167282,
     "longitude": 23.80370827,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -18427,7 +18711,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:30:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -19753,7 +20048,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -20243,7 +20549,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -21150,24 +21467,23 @@
     "longitude": 23.7553177,
     "isFrequentDuty": false,
     "operatingHours": "00:00 – 08:00",
-    "status": "scheduled",
-    "closesAt": null,
+    "status": "open",
+    "closesAt": "08:00:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-13"
+          }
+        ],
+        "observed_at": null
       },
-      "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      }
+      "tomorrow": {}
     }
   },
   {
@@ -30143,7 +30459,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -30951,24 +31278,23 @@
     "latitude": 38.0157644,
     "longitude": 23.75027981,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 21:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -31665,7 +31991,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -31698,7 +32035,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -32117,24 +32465,28 @@
     "latitude": 38.07812949,
     "longitude": 23.80046428,
     "isFrequentDuty": false,
-    "operatingHours": "10:00 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -32850,7 +33202,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -32927,7 +33290,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -34668,7 +35042,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -34915,7 +35300,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -36474,24 +36870,23 @@
     "latitude": 38.02221617,
     "longitude": 23.69261963,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -38622,24 +39017,23 @@
     "latitude": 38.01651442,
     "longitude": 23.70808005,
     "isFrequentDuty": false,
-    "operatingHours": "17:30 – 20:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -39536,7 +39930,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -39637,7 +40042,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -39746,24 +40162,23 @@
     "latitude": 38.01733584,
     "longitude": 23.69438306,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -40247,7 +40662,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "18:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "18:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -40420,7 +40846,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -40497,7 +40934,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -41089,7 +41537,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -41701,7 +42165,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -41717,24 +42192,23 @@
     "latitude": 37.99542085,
     "longitude": 23.72530422,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -42089,7 +42563,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -42129,34 +42614,38 @@
   {
     "id": "m0labTGjRh-eDcqVmQ3vFg",
     "handle": "dimopoylos-theodoros-g-peristeri",
-    "name": "DIMOPOYLOS THEODOROS G",
-    "address": "Περιστέρι",
+    "name": "Δημόπουλος Θεόδωρος Γ.",
+    "address": "Αγίου Βασιλείου 234 & Μήδειας, Περιστέρι, 12137, ΑΤΤΙΚΗΣ",
     "city": "Περιστέρι",
     "municipality": "Περιστέρι",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 38.01302,
-    "longitude": 23.70144,
+    "phone": "2105760998",
+    "latitude": 38.02212543,
+    "longitude": 23.67236291,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -43366,7 +43855,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -43550,7 +44050,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -44238,7 +44749,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -45182,7 +45704,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -45677,7 +46210,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -45885,7 +46429,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -46807,7 +47362,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -47034,7 +47600,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -47535,7 +48112,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -47878,7 +48466,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -48191,24 +48790,23 @@
     "latitude": 38.0047891,
     "longitude": 23.72445575,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -48313,7 +48911,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -48346,7 +48955,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -48738,7 +49358,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -49592,7 +50223,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -49793,7 +50435,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -50040,7 +50693,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -50550,7 +51214,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -50700,7 +51375,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -55903,7 +56589,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -57666,7 +58363,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -58229,7 +58937,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -60629,7 +61348,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -60662,7 +61392,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -60695,7 +61436,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -60850,7 +61602,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -63878,7 +64641,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -67564,7 +68338,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -68023,7 +68808,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "18:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "18:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -68810,7 +69606,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -69218,7 +70025,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -70078,7 +70896,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -70794,24 +71623,23 @@
     "latitude": 38.02421125,
     "longitude": 23.69042374,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -71397,7 +72225,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -71430,7 +72269,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -72303,7 +73153,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -72632,7 +73493,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -73127,7 +73999,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -73635,7 +74518,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -73901,7 +74795,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -74398,24 +75303,23 @@
     "latitude": 38.02031063,
     "longitude": 23.7459314,
     "isFrequentDuty": false,
-    "operatingHours": "09:30 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -74516,7 +75420,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "14:30:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -74688,24 +75603,23 @@
     "latitude": 37.9969825,
     "longitude": 23.73946015,
     "isFrequentDuty": false,
-    "operatingHours": "17:30 – 20:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -74917,7 +75831,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -75051,7 +75976,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -75362,7 +76298,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -77640,7 +78587,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -78055,7 +79013,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -79419,7 +80388,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -81341,7 +82321,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -81976,7 +82967,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -82588,7 +83590,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -83430,7 +84443,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -84496,7 +85520,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -85016,7 +86051,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -85049,7 +86095,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -86003,7 +87060,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -86838,7 +87906,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -87880,7 +88959,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -87913,7 +89003,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -88490,7 +89591,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -89838,24 +90950,23 @@
     "latitude": 37.9628378,
     "longitude": 23.72942738,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 20:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -89961,7 +91072,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -90112,24 +91234,35 @@
     "latitude": 38.0105803,
     "longitude": 23.69248596,
     "isFrequentDuty": true,
-    "operatingHours": "08:00 – 08:00",
+    "operatingHours": "08:00 – 16:00",
     "status": "open",
-    "closesAt": "08:00:00",
+    "closesAt": "16:00:00",
     "dutyPeriods": [],
     "duties": {
       "today": {
         "is_on_duty": true,
-        "closes_at": "08:00:00",
+        "closes_at": "16:00:00",
         "periods": [
           {
             "opens_at": "08:00:00",
-            "closes_at": "08:00:00",
+            "closes_at": "16:00:00",
             "date": "2026-11-13"
           }
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -90741,7 +91874,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -91834,7 +92978,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -91850,24 +93005,23 @@
     "latitude": 38.022408,
     "longitude": 23.741179,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -92006,7 +93160,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -92700,7 +93865,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -92924,7 +94100,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -93092,7 +94279,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -93169,7 +94367,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -94441,7 +95650,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -96980,7 +98200,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -97754,7 +98985,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -98000,7 +99242,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -98314,7 +99567,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -98459,7 +99723,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -99426,7 +100701,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -99628,7 +100914,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -100313,7 +101610,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -100497,7 +101805,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -101591,24 +102910,23 @@
     "latitude": 37.98678594,
     "longitude": 23.74092623,
     "isFrequentDuty": false,
-    "operatingHours": "08:30 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -102286,7 +103604,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -102581,7 +103910,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -103569,7 +104909,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -103636,7 +104987,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -103820,7 +105182,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -103907,7 +105280,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -103957,24 +105341,23 @@
     "latitude": 37.9626997,
     "longitude": 23.7201963,
     "isFrequentDuty": false,
-    "operatingHours": "17:30 – 20:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -104332,24 +105715,23 @@
     "latitude": 37.97880245,
     "longitude": 23.70715915,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -104468,24 +105850,23 @@
     "latitude": 37.96720978,
     "longitude": 23.74495691,
     "isFrequentDuty": false,
-    "operatingHours": "17:30 – 20:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -105034,34 +106415,33 @@
   {
     "id": "bXoDib9ISBqdM6oukkPggA",
     "handle": "katrali-stayroyla-athina",
-    "name": "KATRALI STAYROYLA",
-    "address": "Αθήνα",
+    "name": "Κατράλη Σταυρούλα",
+    "address": "Πυθέου 29-31 & Αρισταίου, Αθήνα - Νέος Κόσμος, 11743, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.99374,
-    "longitude": 23.72232,
+    "phone": "2109024726",
+    "latitude": 37.960504,
+    "longitude": 23.73304,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -105389,7 +106769,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -106187,24 +107578,23 @@
     "latitude": 37.99832147,
     "longitude": 23.75335466,
     "isFrequentDuty": false,
-    "operatingHours": "08:30 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -107637,7 +109027,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -108328,7 +109729,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -108515,24 +109927,23 @@
     "latitude": 38.01385174,
     "longitude": 23.67563505,
     "isFrequentDuty": false,
-    "operatingHours": "10:45 – 13:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "13:00:00",
+        "periods": [
+          {
+            "opens_at": "10:45:00",
+            "closes_at": "13:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -109105,7 +110516,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -110943,7 +112365,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -111574,7 +113007,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -113248,24 +114692,23 @@
     "latitude": 38.0096212,
     "longitude": 23.7241124,
     "isFrequentDuty": false,
-    "operatingHours": "17:30 – 21:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -114301,7 +115744,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -114747,7 +116201,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -115587,7 +117052,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -116378,24 +117854,23 @@
     "latitude": 37.9748332,
     "longitude": 23.71851616,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 21:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -116863,24 +118338,23 @@
     "latitude": 38.01425783,
     "longitude": 23.74540915,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 15:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -118886,7 +120360,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -118963,7 +120448,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -119084,7 +120580,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -119391,24 +120898,23 @@
     "latitude": 37.94991534,
     "longitude": 23.72167213,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 20:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -119811,7 +121317,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -121272,7 +122789,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -121376,24 +122904,23 @@
     "latitude": 37.95755754,
     "longitude": 23.7433466,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -121965,7 +123492,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -122240,7 +123778,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:30:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -122328,7 +123882,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -122361,7 +123926,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -122752,7 +124328,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -123965,7 +125552,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "18:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "18:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -124076,7 +125674,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -124153,7 +125762,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -125443,7 +127063,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -126388,7 +128019,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -126703,7 +128345,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -127636,7 +129289,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -128006,24 +129670,23 @@
     "latitude": 38.08696797,
     "longitude": 23.80952867,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -128193,7 +129856,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -128450,7 +130124,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -128488,7 +130173,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -129165,7 +130861,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -129203,7 +130910,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -129803,7 +131521,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -130988,7 +132717,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -131994,7 +133734,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -133487,7 +135238,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -134863,7 +136625,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "18:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "18:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -134979,7 +136752,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -135367,7 +137151,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "19:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "19:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -135972,7 +137767,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -136569,24 +138380,23 @@
     "latitude": 38.01801937,
     "longitude": 23.75541021,
     "isFrequentDuty": false,
-    "operatingHours": "17:30 – 20:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -136603,24 +138413,23 @@
     "latitude": 37.988165,
     "longitude": 23.767644,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 20:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -137305,7 +139114,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -139119,24 +140939,23 @@
     "latitude": 38.0046932,
     "longitude": 23.73232036,
     "isFrequentDuty": false,
-    "operatingHours": "10:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -139335,7 +141154,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -139814,7 +141644,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -141476,7 +143322,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -141543,7 +143400,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -141702,7 +143570,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -142325,24 +144204,23 @@
     "latitude": 38.021726,
     "longitude": 23.744149,
     "isFrequentDuty": false,
-    "operatingHours": "09:30 – 13:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "13:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "13:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -142512,7 +144390,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -143110,7 +144999,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -144533,7 +146433,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -146113,34 +148024,38 @@
   {
     "id": "PDaFW100TjiPbPj2R5F4Eg",
     "handle": "malafeka-ntaeskoy-ntelia-ntana-f-athina",
-    "name": "MALAFEKA NTAESKOY NTELIA NTANA F",
-    "address": "Αθήνα",
+    "name": "Μαλαφέκα - Νταέσκου Ντέλια - Ντάνα Φ.",
+    "address": "Δυρραχίου 59, Αθήνα - Σεπόλια, 10443, ΑΤΤΙΚΗΣ",
     "city": "Αθήνα",
     "municipality": "Αθήνα",
     "postalCode": "",
     "prefecture": "ΑΤΤΙΚΗΣ",
-    "phone": null,
-    "latitude": 37.97404,
-    "longitude": 23.73262,
+    "phone": "2105153983",
+    "latitude": 38.00573974,
+    "longitude": 23.7172042,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -146670,7 +148585,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -146747,7 +148673,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -147373,24 +149310,23 @@
     "latitude": 38.02676367,
     "longitude": 23.67767461,
     "isFrequentDuty": false,
-    "operatingHours": "09:30 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -147424,7 +149360,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -147613,7 +149560,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -147768,7 +149726,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "16:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -148731,7 +150700,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -149767,7 +151747,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -149867,7 +151858,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -150165,24 +152167,23 @@
     "latitude": 38.00777018,
     "longitude": 23.68636935,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 20:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -151040,7 +153041,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "18:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "18:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -151458,7 +153470,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "15:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -151496,7 +153519,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -151622,7 +153656,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -152099,24 +154144,23 @@
     "latitude": 38.01190797,
     "longitude": 23.75506598,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -153269,7 +155313,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -154198,7 +156253,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -154813,7 +156879,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -155104,7 +157181,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -155380,7 +157468,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -156005,7 +158104,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -160040,7 +162150,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -160659,23 +162780,24 @@
     "longitude": 23.75063267,
     "isFrequentDuty": false,
     "operatingHours": "08:00 – 21:00",
-    "status": "open",
-    "closesAt": "21:00:00",
+    "status": "scheduled",
+    "closesAt": null,
     "dutyPeriods": [],
     "duties": {
       "today": {
-        "is_on_duty": true,
-        "closes_at": "21:00:00",
-        "periods": [
-          {
-            "opens_at": "08:00:00",
-            "closes_at": "21:00:00",
-            "date": "2026-11-13"
-          }
-        ],
-        "observed_at": null
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": false,
+        "closes_at": null,
+        "periods": [],
+        "observed_at": null,
+        "data_status": "fresh"
+      }
     }
   },
   {
@@ -161028,7 +163150,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -161589,7 +163722,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -164885,7 +167029,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -168163,7 +170318,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -168936,7 +171102,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -170882,7 +173059,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -171396,7 +173584,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -173314,7 +175513,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -177621,7 +179831,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -178316,7 +180537,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -179442,7 +181674,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -179689,7 +181932,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "23:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "23:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -180224,24 +182478,23 @@
     "latitude": 38.02507623,
     "longitude": 23.69032895,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -180780,7 +183033,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -183911,7 +186175,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -184144,7 +186419,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "18:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "18:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -187506,24 +189792,23 @@
     "latitude": 38.07553934,
     "longitude": 23.80374355,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -188236,7 +190521,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "18:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "18:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -188831,7 +191127,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -191837,7 +194144,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -193824,7 +196142,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -194569,7 +196898,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -197318,7 +199658,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -200249,24 +202600,23 @@
     "latitude": 38.00948385,
     "longitude": 23.69023507,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -201011,7 +203361,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -207313,7 +209674,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -207964,24 +210336,23 @@
     "latitude": 38.01579083,
     "longitude": 23.75861883,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 23:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -213680,7 +216051,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -215177,7 +217559,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -215210,7 +217603,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -219078,7 +221482,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -219155,7 +221570,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -220853,7 +223279,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -222297,7 +224734,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -223227,7 +225675,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -223680,24 +226139,23 @@
     "latitude": 40.63903092,
     "longitude": 22.96136218,
     "isFrequentDuty": false,
-    "operatingHours": "08:00 – 21:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "21:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "21:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -226226,7 +228684,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -228062,7 +230531,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -229934,7 +232414,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -231354,7 +233845,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -234040,24 +236542,23 @@
     "latitude": 38.01750593,
     "longitude": 23.75554863,
     "isFrequentDuty": false,
-    "operatingHours": "17:30 – 21:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -234280,7 +236781,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -237857,7 +240369,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -238452,7 +240975,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -239027,24 +241561,23 @@
     "latitude": 38.0782444,
     "longitude": 23.80448884,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -241580,7 +244113,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -241792,7 +244336,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -243798,24 +246353,23 @@
     "latitude": 38.01732192,
     "longitude": 23.75808976,
     "isFrequentDuty": false,
-    "operatingHours": "08:30 – 14:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -255295,7 +257849,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -256137,7 +258702,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -263965,7 +266541,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -264347,7 +266934,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -265030,7 +267628,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -266301,24 +268910,23 @@
     "latitude": 38.01978295,
     "longitude": 23.75400303,
     "isFrequentDuty": false,
-    "operatingHours": "17:00 – 20:30",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -267037,7 +269645,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -268428,7 +271047,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -269561,7 +272191,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -270308,7 +272949,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -282343,7 +284995,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -284554,24 +287217,23 @@
     "latitude": 38.02170195,
     "longitude": 23.75365482,
     "isFrequentDuty": false,
-    "operatingHours": "17:30 – 21:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -285840,7 +288502,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -287713,7 +290386,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -288400,7 +291084,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -288433,7 +291128,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "19:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "19:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -288544,7 +291250,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -288767,7 +291484,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -288849,7 +291577,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -289121,7 +291860,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -289198,7 +291948,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -290526,7 +293287,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -290636,7 +293408,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -290752,7 +293535,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -291025,7 +293819,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -291041,24 +293846,23 @@
     "latitude": 37.972297,
     "longitude": 23.749272,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -291616,24 +294420,23 @@
     "latitude": 38.00666,
     "longitude": 23.731865,
     "isFrequentDuty": false,
-    "operatingHours": "09:00 – 14:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -299341,7 +302144,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -307397,7 +310211,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -307722,7 +310547,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -310123,7 +312959,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -311560,7 +314407,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -313583,7 +316441,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -316040,7 +318909,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -316773,7 +319653,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -317974,7 +320865,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "11:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -318124,7 +321026,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -318390,7 +321303,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -318696,7 +321620,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -319491,7 +322426,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -319880,7 +322826,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -320084,7 +323041,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -321892,7 +324860,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -323380,7 +326359,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -324135,7 +327125,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -324645,7 +327646,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -324756,7 +327768,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -325183,7 +328206,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -325288,7 +328322,23 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -325829,24 +328879,23 @@
     "latitude": 37.984874,
     "longitude": 23.737025,
     "isFrequentDuty": false,
-    "operatingHours": "00:00 – 08:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "dutyPeriods": [],
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -326317,7 +329366,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:30:00",
+        "periods": [
+          {
+            "opens_at": "08:30:00",
+            "closes_at": "15:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -326679,7 +329739,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -326712,7 +329783,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -327607,7 +330689,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -327684,7 +330777,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -327756,7 +330860,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -328261,7 +331376,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "09:30:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -328401,7 +331527,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -329373,7 +332510,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -329702,7 +332850,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "10:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -330022,7 +333181,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "16:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "16:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -330203,7 +333373,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -332637,7 +335818,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -332669,7 +335861,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "20:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "20:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -332751,23 +335954,22 @@
     "latitude": 37.99927586,
     "longitude": 23.72424199,
     "isFrequentDuty": true,
-    "operatingHours": "09:00 – 15:00",
+    "operatingHours": "—",
     "status": "scheduled",
     "closesAt": null,
     "duties": {
-      "today": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
-      },
+      "today": {},
       "tomorrow": {
-        "is_on_duty": false,
-        "closes_at": null,
-        "periods": [],
-        "observed_at": null,
-        "data_status": "fresh"
+        "is_on_duty": true,
+        "closes_at": "15:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "15:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
       }
     }
   },
@@ -335879,7 +339081,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:30:00",
+        "periods": [
+          {
+            "opens_at": "00:00:00",
+            "closes_at": "08:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -338559,7 +341772,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "17:00:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "17:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -338705,7 +341929,18 @@
         ],
         "observed_at": null
       },
-      "tomorrow": {}
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "14:30:00",
+        "periods": [
+          {
+            "opens_at": "09:00:00",
+            "closes_at": "14:30:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
     }
   },
   {
@@ -340118,6 +343353,43 @@
     "phone": "2105153983",
     "latitude": 38.0055233,
     "longitude": 23.71730448,
+    "isFrequentDuty": false,
+    "operatingHours": "—",
+    "status": "scheduled",
+    "closesAt": null,
+    "duties": {
+      "today": {},
+      "tomorrow": {
+        "is_on_duty": true,
+        "closes_at": "08:00:00",
+        "periods": [
+          {
+            "opens_at": "08:00:00",
+            "closes_at": "14:00:00",
+            "date": "2026-11-14"
+          },
+          {
+            "opens_at": "17:00:00",
+            "closes_at": "08:00:00",
+            "date": "2026-11-14"
+          }
+        ],
+        "observed_at": null
+      }
+    }
+  },
+  {
+    "id": "kJbtLELWTUO9e4tOxp-vRQ",
+    "handle": "H0jhziFU-Ufo9TEKc7dIkA",
+    "name": "Βασιλοπούλου Ελένη Γ.",
+    "address": "Δαμάρεως 56, Αθήνα - Παγκράτι, 11633, ΑΤΤΙΚΗΣ",
+    "city": "Αθήνα",
+    "municipality": "Αθήνα",
+    "postalCode": "",
+    "prefecture": "",
+    "phone": "2107519495",
+    "latitude": 37.9664095,
+    "longitude": 23.7499054,
     "isFrequentDuty": false,
     "operatingHours": "—",
     "status": "scheduled",
